@@ -6,8 +6,8 @@
 </script>
 <p>Comics are listed here in the order they are shelved. Click each letter to expand the list of titles.</p>
 
-<p><span style="font-size:16px;"><a onclick="return toggleMe('para1')"><h3>#</h3></a></span></p>
-	<div id="para1"><em>Misc. series by title and issue number:</em>
+<p><span style="font-size:16px;"><h3>#</h3></a></span></p>
+	<div id="accordion"><em>Misc. series by title and issue number:</em>
 		<ul>
 			<li>10th Muse, issue 5. (Image).</li>
 			<li>2020 Visions, issues 5, 7. (Vertigo).</li>
