@@ -15,7 +15,7 @@ return false;
 
 <p>Comics are listed here in the order they are shelved. Click each letter to expand the list of titles.</p>
 
-<p><input type="button" onclick="return toggleMe('para1')" value="Toggle"><h3>#</h3></a></p>
+<p><input type="button" onclick="return toggleMe('para1')" value="#"></p>
 	<div id="para1"><em>Misc. series by title and issue number:</em>
 		<ul>
 			<li>10th Muse, issue 5. (Image).</li>
