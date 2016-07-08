@@ -29,24 +29,18 @@ return false;
 				<li>300, issues 1-5. (Dark Horse).</li>
 			</ul>
 		</div>
-		<div id="para100" style="display:none;">
 		<em>100 Bullets:</em>
 			<ul>
 				<li>100 Bullets, issues </li>
 			</ul>
-		</div>
-		<div id="para101" style="display:none;">
 		<em>1 Million:</em>
 			<ul>
 				<li>1 Million, issues </li>
 			</ul>
-		</div>
-		<div id="para101" style="display:none;">
 		<em>52:</em>
 			<ul>
 				<li>52, issues </li>
 			</ul>
-		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para2')" style="cursor:pointer;"><b>A</b></a></span></p>
