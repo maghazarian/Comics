@@ -46,8 +46,31 @@ return false;
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para2')" style="cursor:pointer;"><b>A</b></a></span></p>
 	<div id="para2" style="display:none;"><em>Misc. series by title and issue number:</em>
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>Abominations, issues 1-3. (Marvel)</li>
+			<li>Adam Strange, books 1-3 (1990). (DC Comics)</li>
+			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics)</li>
+			<li>Adventures in the DC Universe, issues 12-14. (DC Comics)</li>
+			<li>Alan Moore's Another Suburban Romance . (Avatar)</li>
+			<li>Alan Moore's Writing for Comics . (Avatar)</li>
+			<li>Albion, issues 1-6. (WildStorm)</li>
+			<li>All-Star Squadron, issue 27. (DC Comics)</li>
+			<li>Alpha Centurion Special, issue 1. (DC Comics)</li>
+			<li>Amazing Fantasy, issues 2, 5, 17. (Marvel)</li>
+			<li>Amazon, issue 1. (Amalgam)</li>
+			<li>America's Best Comics, issue 1. (WildStorm)</li>
+			<li>Amy Racecar, issue 1. (El Capitan)</li>
+			<li>Anarky, issues 1, 4-7. (DC Comics)</li>
+			<li>A-Next, issue 9. (Marvel)</li>
+			<li>Angel and the Ape, issue 1 (1991). (DC Comics)</li>
+			<li>Angel and the Ape, issue 1 (2001). (Vertigo)</li>
+			<li>Angel Town, issue 1. (Vertigo)</li>
+			<li>Animal Man, issues 47-48, 87. (DC Comics)</li>
+			<li>Anne Rice's The Witching Hour, issue 1. (Millennium)</li>
+			<li>Annex, issues 1-3. (Marvel)</li>
+			<li>Appleseed, book 3, issues 1-3. (Eclipse International)</li>
+			<li>Aquaman, issue 5 (1989). (DC Comics)</li>
+			<li>Aquaman Annual, issues 2-3 (1996-1997). (DC Comics)</li>
+			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics)</li>
 		</ul>
 	</div>
 
