@@ -32,21 +32,23 @@ return false;
 		<div id="para100" style="display:inline;">
 		<p><span style="font-size:14px;"><em>100 Bullets:</em></span></p>
 			<ul>
-				<li>100 Bullets, issues </li>
+				<li>100 Bullets, issues 1-50 (gaps). (Vertigo).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>1 Million:</em></span></p>
 			<ul>
-				<li>1 Million, issues </li>
+				<li>1 Million, 29 issues, various. (DC Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>52:</em></span></p>
 			<ul>
-				<li>52, issues </li>
+				<li>52, issues 1-35, 37-49. (DC Comics).</li>
 			</ul>
 		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para2')" style="cursor:pointer;"><b>A</b></a></span></p>
-	<div id="para2" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para2" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para101')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para101" style="display:none;">
 		<ul>
 			<li>Abominations, issues 1-3. (Marvel)</li>
 			<li>Adam Strange, books 1-3 (1990). (DC Comics)</li>
@@ -74,6 +76,21 @@ return false;
 			<li>Aquaman Annual, issues 2-3 (1996-1997). (DC Comics)</li>
 			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics)</li>
 		</ul>
+		</div>
+		<div id="para102" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>1 Box:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para3')" style="cursor:pointer;"><b>B</b></a></span></p>
