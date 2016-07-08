@@ -16,7 +16,9 @@ return false;
 <p>Comics are listed here in the order they are shelved. Click each letter to expand the list of titles.</p>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para1')" style="cursor:pointer;"><b>#</b></a></span></p>
-	<div id="para1" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para1" style="display:none;">
+		<div id="para1a" style="display:none;">
+		<a onclick="return toggleMe('para1a')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em>
 		<ul>
 			<li>10th Muse, issue 5. (Image).</li>
 			<li>2020 Visions, issues 5, 7. (Vertigo).</li>
@@ -26,7 +28,7 @@ return false;
 			<li>2099 World of Tomorrow, issues 1-8. (Marvel).</li>
 			<li>300, issues 1-5. (Dark Horse).</li>
 		</ul>
-
+		</div>
 		<em>100 Bullets:</em>
 		<ul>
 			<li>100 Bullets, issues </li>
