@@ -111,31 +111,16 @@ return false;
 		</ul>
 		</div>
 		<div id="para104" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Batman: Azrael:</em></span></p>
+		<p><span style="font-size:14px;"><em>Batman Series:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Batman</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Detective Comics</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Gotham Knights</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Legends of the Dark Knight</em></span></p>
-			<ul>
-				<li>Series, issues </li>
+				<li>Azrael, issues </li>
+				<li>Batman, issues </li>
+				<li>Detective Comics, issues </li>
+				<li>Gotham Knights, issues </li>
+				<li>Legends of the Dark Knight, issues </li>
+				<li>Shadow of the Bat, issues </li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Robin</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Shadow of the Bat</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -168,11 +153,23 @@ return false;
 		</ul>
 		</div>
 		<div id="para106" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Cage:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Captain Atom:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Captain Marvel:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Crisis:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Crying Freeman:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -189,11 +186,36 @@ return false;
 		</ul>
 		</div>
 		<div id="para108" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Darkhawk:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Deathblow:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Deathlok:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Deathstroke:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Defenders:</em></span></p>
+			<ul>
+				<li>New Defenders, issues </li>
+				<li>Secret Defenders, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Demon:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Doctor Strange:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Doom:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -210,11 +232,7 @@ return false;
 		</ul>
 		</div>
 		<div id="para110" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Eclipso:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -231,11 +249,7 @@ return false;
 		</ul>
 		</div>
 		<div id="para112" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Flash:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -252,11 +266,34 @@ return false;
 		</ul>
 		</div>
 		<div id="para114" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>G.I. Joe:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Ghost in the Shell:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Ghost Rider:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Green Arrow:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Green Lantern:</em></span></p>
+			<ul>
+				<li>Green Lantern, issues </li>
+				<li>Green Lantern Corps, issues </li>
+				<li>Guy Gardner: Warrior, issues </li>
+				<li>Mosaic, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Green Lantern: Misc:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Guardians of the Galaxy:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -273,11 +310,27 @@ return false;
 		</ul>
 				</div>
 		<div id="para116" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Hawkman:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Hawkworld:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Hercules:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Hero:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Horobi:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Human Target:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -294,13 +347,13 @@ return false;
 		</ul>
 				</div>
 		<div id="para118" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Inhumans:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Invaders:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>New Invaders, issues </li>
 			</ul>
 		</div>
 	</div>
@@ -315,11 +368,20 @@ return false;
 		</ul>
 				</div>
 		<div id="para120" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Justice League:</em></span></p>
+			<ul>
+				<li>America, issues </li>
+				<li>Europe, issues </li>
+				<li>International, issues </li>
+				<li>JLA, issues </li>
+				<li>JSA, issues </li>
+				<li>Justice Society of America, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Justice League: Misc.:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Justice League: Books:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -335,7 +397,7 @@ return false;
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
 				</div>
-		<div id="para122" style="display:inline;">
+		<div id="para122" style="display:none;">
 		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
@@ -357,13 +419,12 @@ return false;
 		</ul>
 		</div>
 		<div id="para124" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Legion:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
+				<li>L.E.G.I.O.N., issues </li>
+				<li>Legion, issues </li>
+				<li>Legionnaires, issues </li>
+				<li>Legion of Superheroes, issues </li>
 			</ul>
 		</div>
 	</div>
@@ -378,11 +439,19 @@ return false;
 		</ul>
 				</div>
 		<div id="para126" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Majestic:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Martian Manhunter:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Marvel Superheroes: Misc.:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Moon Knight:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -399,11 +468,11 @@ return false;
 		</ul>
 				</div>
 		<div id="para128" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Namor:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Nomad:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -420,11 +489,11 @@ return false;
 		</ul>
 		</div>
 		<div id="para130" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Omega Men:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Orion:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -441,11 +510,15 @@ return false;
 		</ul>
 		</div>
 		<div id="para132" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Pitt:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Predator:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Promethea:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -462,11 +535,7 @@ return false;
 		</ul>
 		</div>
 		<div id="para134" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>Quasar:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -483,11 +552,15 @@ return false;
 		</ul>
 				</div>
 		<div id="para136" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+		<p><span style="font-size:14px;"><em>Rebels:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+		<p><span style="font-size:14px;"><em>ROM:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Runaways:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
