@@ -159,193 +159,505 @@ return false;
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para4')" style="cursor:pointer;"><b>C</b></a></span></p>
-	<div id="para4" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para4" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para105')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para105" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para106" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para5')" style="cursor:pointer;"><b>D</b></a></span></p>
-	<div id="para5" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para5" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para107')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para107" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para108" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para6')" style="cursor:pointer;"><b>E</b></a></span></p>
-	<div id="para6" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para6" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para109')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para109" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para110" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para7')" style="cursor:pointer;"><b>F</b></a></span></p>
-	<div id="para7" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para7" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para111" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para112" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para8')" style="cursor:pointer;"><b>G</b></a></span></p>
-	<div id="para8" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para8" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para113')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para113" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para114" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para9')" style="cursor:pointer;"><b>H</b></a></span></p>
-	<div id="para9" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para9" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para115')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para115" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para116" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para10')" style="cursor:pointer;"><b>I</b></a></span></p>
-	<div id="para10" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para10" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para117')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para117" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para118" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para11')" style="cursor:pointer;"><b>J</b></a></span></p>
-	<div id="para11" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para11" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para119')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para119" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para120" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para12')" style="cursor:pointer;"><b>K</b></a></span></p>
-	<div id="para12" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para12" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para121')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para121" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para122" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para13')" style="cursor:pointer;"><b>L</b></a></span></p>
-	<div id="para13" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para13" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para123')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para123" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para124" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para14')" style="cursor:pointer;"><b>M</b></a></span></p>
-	<div id="para14" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para14" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para125')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para125" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para126" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para15')" style="cursor:pointer;"><b>N</b></a></span></p>
-	<div id="para15" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para15" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para127')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para127" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para128" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para16')" style="cursor:pointer;"><b>O</b></a></span></p>
-	<div id="para16" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para16" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para129')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para129" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para130" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para17')" style="cursor:pointer;"><b>P</b></a></span></p>
-	<div id="para17" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para17" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para131')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para131" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para132" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para18')" style="cursor:pointer;"><b>Q</b></a></span></p>
-	<div id="para18" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para18" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para133')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para133" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para134" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para19')" style="cursor:pointer;"><b>R</b></a></span></p>
-	<div id="para19" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para19" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para135')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para135" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para136" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para20')" style="cursor:pointer;"><b>S</b></a></span></p>
-	<div id="para20" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para20" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para137')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para137" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para138" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para21')" style="cursor:pointer;"><b>T</b></a></span></p>
-	<div id="para21" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para21" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para139')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para139" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+				</div>
+		<div id="para140" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para22')" style="cursor:pointer;"><b>U</b></a></span></p>
-	<div id="para22" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para22" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para141')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para141" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para142" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para23')" style="cursor:pointer;"><b>V</b></a></span></p>
-	<div id="para23" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para23" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para143')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para143" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para144" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para24')" style="cursor:pointer;"><b>W</b></a></span></p>
-	<div id="para24" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para24" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para145')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para145" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para146" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para25')" style="cursor:pointer;"><b>X</b></a></span></p>
-	<div id="para25" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para25" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para147')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para147" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para148" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para26')" style="cursor:pointer;"><b>Y</b></a></span></p>
-	<div id="para26" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para26" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para149')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para149" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para150" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para27')" style="cursor:pointer;"><b>Z</b></a></span></p>
-	<div id="para27" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para27" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para151')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para151" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
+		</div>
+		<div id="para152" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
