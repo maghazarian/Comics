@@ -78,15 +78,23 @@ return false;
 		</ul>
 		</div>
 		<div id="para102" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Box:</em></span></p>
+		<p><span style="font-size:14px;"><em>Akira:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>1 Box:</em></span></p>
+		<p><span style="font-size:14px;"><em>Aliens:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Box:</em></span></p>
+		<p><span style="font-size:14px;"><em>Alpha Flight:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>American Century:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Avengers:</em></span></p>
 			<ul>
 				<li>Series, issues </li>
 			</ul>
@@ -94,18 +102,60 @@ return false;
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para3')" style="cursor:pointer;"><b>B</b></a></span></p>
-	<div id="para3" style="display:none;"><em>Misc. series by title and issue number:</em>
+	<div id="para3" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para103')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para103" style="display:none;">
 		<ul>
 			<li>Title 1, issues 1-4. (Marvel)</li>
 			<li>Title 2, issues 6, 8. (Image)</li>
 		</ul>
-
-		<em>Batman family comics:</em>
-		<ul>
-			<li>Azrael</li>
-			<li>Dark Knight</li>
-			<li>Detective Comics</li>
-		</ul>
+		</div>
+		<div id="para104" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Batman: Azrael:</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Batman</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Detective Comics</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Gotham Knights</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Legends of the Dark Knight</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Robin</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Shadow of the Bat</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Villains and Sidekicks</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Misc</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Batman: Books</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Black Panther</em></span></p>
+			<ul>
+				<li>Series, issues </li>
+			</ul>
+		</div>
 	</div>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para4')" style="cursor:pointer;"><b>C</b></a></span></p>
