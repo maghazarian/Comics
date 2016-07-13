@@ -13,6 +13,7 @@ i.src = 'YOUR CLOSED IMAGE URL';
 return false;
 }
 </script>
+<p>Our comics are grouped into "families", organized by series name and issue number. These families are listed alphabetically, with all miscellaneous comics shelved together.</p>
 <p>Comics are listed here in the order they are shelved. Click each letter to expand the list of titles.</p>
 
 <p><span style="font-size:16px;"><a onclick="return toggleMe('para1')" style="cursor:pointer;"><b>#</b></a></span></p>
