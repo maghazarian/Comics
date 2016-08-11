@@ -33,7 +33,7 @@ return false;
 		<div id="para100" style="display:inline;">
 		<p><span style="font-size:14px;"><em>100 Bullets:</em></span></p>
 			<ul>
-				<li>100 Bullets, issues 1-50 (gaps). (Vertigo).</li>
+				<li>100 Bullets, issues 1-50 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>1 Million:</em></span></p>
 			<ul>
@@ -51,53 +51,80 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para101')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para101" style="display:none;">
 		<ul>
-			<li>Abominations, issues 1-3. (Marvel)</li>
-			<li>Adam Strange, books 1-3 (1990). (DC Comics)</li>
-			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics)</li>
-			<li>Adventures in the DC Universe, issues 12-14. (DC Comics)</li>
-			<li>Alan Moore's Another Suburban Romance . (Avatar)</li>
-			<li>Alan Moore's Writing for Comics . (Avatar)</li>
-			<li>Albion, issues 1-6. (WildStorm)</li>
-			<li>All-Star Squadron, issue 27. (DC Comics)</li>
-			<li>Alpha Centurion Special, issue 1. (DC Comics)</li>
-			<li>Amazing Fantasy, issues 2, 5, 17. (Marvel)</li>
-			<li>Amazon, issue 1. (Amalgam)</li>
-			<li>America's Best Comics, issue 1. (WildStorm)</li>
-			<li>Amy Racecar, issue 1. (El Capitan)</li>
-			<li>Anarky, issues 1, 4-7. (DC Comics)</li>
-			<li>A-Next, issue 9. (Marvel)</li>
-			<li>Angel and the Ape, issue 1 (1991). (DC Comics)</li>
-			<li>Angel and the Ape, issue 1 (2001). (Vertigo)</li>
-			<li>Angel Town, issue 1. (Vertigo)</li>
-			<li>Animal Man, issues 47-48, 87. (DC Comics)</li>
-			<li>Anne Rice's The Witching Hour, issue 1. (Millennium)</li>
-			<li>Annex, issues 1-3. (Marvel)</li>
-			<li>Appleseed, book 3, issues 1-3. (Eclipse International)</li>
-			<li>Aquaman, issue 5 (1989). (DC Comics)</li>
-			<li>Aquaman Annual, issues 2-3 (1996-1997). (DC Comics)</li>
-			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics)</li>
+			<li>Abominations, issues 1-3. (Marvel).</li>
+			<li>Adam Strange, books 1-3 (1990). (DC Comics).</li>
+			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics).</li>
+			<li>Adventures in the DC Universe, issues 12-14. (DC Comics).</li>
+			<li>Alan Moore's Another Suburban Romance. (Avatar).</li>
+			<li>Alan Moore's Writing for Comics. (Avatar).</li>
+			<li>Albion, issues 1-6. (WildStorm).</li>
+			<li>All-Star Squadron, issue 27. (DC Comics).</li>
+			<li>Alpha Centurion Special, issue 1. (DC Comics).</li>
+			<li>Amazing Fantasy, issues 2, 5, 17. (Marvel).</li>
+			<li>Amazon, issue 1. (Amalgam).</li>
+			<li>America's Best Comics, issue 1. (WildStorm).</li>
+			<li>Amy Racecar, issue 1. (El Capitan).</li>
+			<li>Anarky, issues 1, 4-7. (DC Comics).</li>
+			<li>A-Next, issue 9. (Marvel).</li>
+			<li>Angel and the Ape, issue 1 (1991). (DC Comics).</li>
+			<li>Angel and the Ape, issue 1 (2001). (Vertigo).</li>
+			<li>Angel Town, issue 1. (Vertigo).</li>
+			<li>Animal Man, issues 47-48, 87. (DC Comics).</li>
+			<li>Anne Rice's The Witching Hour, issue 1. (Millennium).</li>
+			<li>Annex, issues 1-3. (Marvel).</li>
+			<li>Appleseed, book 3, issues 1-3. (Eclipse International).</li>
+			<li>Aquaman, issue 5 (1989). (DC Comics).</li>
+			<li>Aquaman Annual, issues 2-3 (1996-1997). (DC Comics).</li>
+			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics).</li>
 		</ul>
 		</div>
 		<div id="para102" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Akira:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Akira, issues 1-25 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Epic Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Aliens:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Aliens: Alchemy, issues 1-3. (Dark Horse Comics).</li>
+				<li>Aliens: Apocalypse: The Destroying Angels, issue 4. (Dark Horse Comics).</li>
+				<li>Aliens: Berserker, issues 1-4. (Dark Horse Comics).</li>
+				<li>Aliens: Earth War, issues 1-4. (Dark Horse Comics).</li>
+				<li>Aliens: Glass Corridor, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Havoc, issues 1-2. (Dark Horse Comics).</li>
+				<li>Aliens: Hive, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Kidnapped, issue 3. (Dark Horse Comics).</li>
+				<li>Aliens: Lovesick, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Mondo Pest, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Newt's Tale, issues 1-2. (Dark Horse Comics).</li>
+				<li>Aliens: Purge, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Sacrifice. (Dark Horse Comics).</li>
+				<li>Aliens: Stalker, issue 1. (Dark Horse Comics).</li>
+				<li>Aliens: Survival, issues 1-3. (Dark Horse Comics).</li>
+				<li>Aliens: Xenogenesis, issues 2,4. (Dark Horse Comics).</li>
+				<li>Alien Versus Predator, issue 3. (Dark Horse Comics).</li>
+				<li>Dark Horse Classics: Aliens Versus Predator, issue 3. (Dark Horse Comics).</li>
+				<li>Aliens Versus Predator: Duel, issues 1-2. (Dark Horse Comics).</li>
+				<li>Aliens Versus Predator: War, issues 0-4. (Dark Horse Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Alpha Flight:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Alpha Flight, issues 35-47, 81-130 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Marvel).</li>
+				<li>Alpha Flight, volume 2, issues 1-17 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Marvel).</li>
+				<li>Alpha Flight Annual, 1986, 1992, 1998. (Marvel Comics).</li>
+				<li>All-New, All-Different Alpha Flight, volume 3, issues 1-12 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Marvel).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>American Century:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>American Century, issues 1-25 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Avengers:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Avengers, issues 239-260 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Marvel).</li>
+				<li>Avengers Annual, issues 12-14. (Marvel).</li>
+				<li>Avengers Spotlight, issues 23, 27. (Marvel).</li>
+				<li>West Coast Avengers, issues 15, 45. (Marvel).</li>
+				<li>Avengers West Coast, issues 49, 51. (Marvel).</li>
+				<li>Avengers/JLA, issue 2. (Marvel).</li>
 			</ul>
 		</div>
 	</div>
@@ -107,8 +134,57 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para103')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para103" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>Babylon 5: In Valen's Name, issues 1-2. (DC Comics).</li>
+			<li>Backlash, issue 22. (Image).</li>
+			<li>Bad Girls, issue 1. (DC Comics).</li>
+			<li>Badger Bedlam, issue 1. (First).</li>
+			<li>Badrock and Company, issue 6. (Image).</li>
+			<li>Ball and Chain, issue 3. (Homage Comics).</li>
+			<li>Bangkok, issues 1-4. (Vertigo).</li>
+			<li>Battle Binder Plus, issues 3-4, 6. (Venus Comics).</li>
+			<li>Battle Tide, issues 1-2. (Marvel).</li>
+			<li>Beauty, issues 1-2. (Image).</li>
+			<li>Berlin, issue 1. (Michel Vrana).</li>
+			<li>Betty and Veronica, issue 312. (Close-Up, Inc).</li>
+			<li>Beware the Creeper, issue 5. (Vertigo).</li>
+			<li>Big Bang Comics, issue 3. (Image).</li>
+			<li>Big Bruisers, issue 1. (Image).</li>
+			<li>Billy Dogma, issue 3. (Keyhole).</li>
+			<li>Black Flag, issue 2. (Maximum Press).</li>
+			<li>Black Knight, issues 1-4. (Marvel).</li>
+			<li>Black Knight: Exodus, issue 1. (Marvel).</li>
+			<li>Blackmask, issue 1. (DC Comics).</li>
+			<li>Black Ops, issue 4. (Image).</li>
+			<li>Black Terror, issue 3. (Eclipse Comics).</li>
+			<li>Black Widow, issue 3 (1999). (Marvel).</li>
+			<li>Black Widow, issues 1, 4, 6 (2004-2005). (Marvel).</li>
+			<li>Black Widow, issues 1-6 (2005-2006). (Marvel).</li>
+			<li>Blackwulf, issues 1-4, 6, 9. (Marvel).</li>
+			<li>Blaze of Glory, issues 1-2, 4. (Marvel).</li>
+			<li>Bloodbath, issues 1-2. (DC Comics).</li>
+			<li>Bloodhound, issue 6. (DC Comics).</li>
+			<li>Bloodstrike, issues 1, 4-5, 7, 18. (Image).</li>
+			<li>Blood Syndicate, issues 2, 8. (DC Comics).</li>
+			<li>Blue Beetle, issue 3. (DC Comics).</li>
+			<li>Body Doubles, issues 1, 4. (DC Comics).</li>
+			<li>Book of the Dead, issue 2. (Marvel).</li>
+			<li>Books of Magick: Life During Wartime, issue 1. (Vertigo).</li>
+			<li>Bone, issues 39-41. (Cartoon Books).</li>
+			<li>Brainbanx, issue 4. (DC Comics).</li>
+			<li>Brave and the Bold, issues 161, 179. (DC Comics).</li>
+			<li>Brave New World, issue 1. (DC Comics).</li>
+			<li>Brave Old World, issues 2-4. (Vertigo).</li>
+			<li>Breakneck Blvd., issue 2. (Slave Labor Graphics).</li>
+			<li>Breed, issue 1. (Malibu Comics).</li>
+			<li>Brigade, issue 0 (Sep. 1993). (Image).</li>
+			<li>Brigade, issues 1, 2 (1992). (Image).</li>
+			<li>Brigade, issue 3 (Feb. 1993). (Image).</li>
+			<li>Brigade, issues 1-2, 4-5 (1993). (Image).</li>
+			<li>Brigade, issue 3 (Sep. 1993). (Image).</li>
+			<li>Brute Force, issue 1. (Marvel).</li>
+			<li>Bubblegum Crisis: Grand Mal, issue 3. (Dark Horse).</li>
+			<li>Bullets and Bracelets, issue 1. (Amalgam).</li>
+			<li>Butcher, issues 1-4. (DC Comics).</li>
 		</ul>
 		</div>
 		<div id="para104" style="display:inline;">
