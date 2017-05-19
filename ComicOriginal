@@ -117,15 +117,7 @@ return false;
 			<ul>
 				<li>American Century, issues 1-25 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Avengers:</em></span></p>
-			<ul>
-				<li>Avengers, issues 239-260 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Marvel).</li>
-				<li>Avengers Annual, issues 12-14. (Marvel).</li>
-				<li>Avengers Spotlight, issues 23, 27. (Marvel).</li>
-				<li>West Coast Avengers, issues 15, 45. (Marvel).</li>
-				<li>Avengers West Coast, issues 49, 51. (Marvel).</li>
-				<li>Avengers/JLA, issue 2. (Marvel).</li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Avengers</em></span></p>
 		</div>
 	</div>
 
@@ -190,33 +182,17 @@ return false;
 		<div id="para104" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Batman Series:</em></span></p>
 			<ul>
-				<li>Azrael, issues </li>
-				<li>Batman, issues </li>
-				<li>Detective Comics, issues </li>
+				<li>Azrael</li>
+				<li>Batman</li>
+				<li>Detective Comics</li>
 				<li>Gotham Knights, issues </li>
-				<li>Legends of the Dark Knight, issues </li>
-				<li>Shadow of the Bat, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Robin</em></span></p>
-			<ul>
-				<li>Series, issues </li>
+				<li>Legends of the Dark Knight</li>
+				<li>Shadow of the Bat</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Villains and Sidekicks</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Misc</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Books</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		<p><span style="font-size:14px;"><em>Black Panther</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		</div>
 	</div>
 
@@ -225,31 +201,19 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para105')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para105" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para106" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Cage:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Captain Atom:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Captain Marvel:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Crisis:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Crying Freeman:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Cable</em></span></p>
+		<p><span style="font-size:14px;"><em>Cage</em></span></p>
+		<p><span style="font-size:14px;"><em>Captain Anerica</em></span></p>
+		<p><span style="font-size:14px;"><em>Captain Atom</em></span></p>
+		<p><span style="font-size:14px;"><em>Captain Marvel</em></span></p>
+		<p><span style="font-size:14px;"><em>Catwoman</em></span></p>
+		<p><span style="font-size:14px;"><em>Cloak and Dagger</em></span></p>
+		<p><span style="font-size:14px;"><em>Crisis</em></span></p>
+		<p><span style="font-size:14px;"><em>Crying Freeman</em></span></p>
 		</div>
 	</div>
 
@@ -258,44 +222,25 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para107')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para107" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para108" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Darkhawk:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Deathblow:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Deathlok:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Deathstroke:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Darkhawk</em></span></p>
+		<p><span style="font-size:14px;"><em>Dazzler</em></span></p>
+		<p><span style="font-size:14px;"><em>Deadpool</em></span></p>
+		<p><span style="font-size:14px;"><em>Deathblow</em></span></p>
+		<p><span style="font-size:14px;"><em>Deathlok</em></span></p>
+		<p><span style="font-size:14px;"><em>Deathstroke</em></span></p>
 		<p><span style="font-size:14px;"><em>Defenders:</em></span></p>
 			<ul>
-				<li>New Defenders, issues </li>
-				<li>Secret Defenders, issues </li>
+				<li>New Defenders</li>
+				<li>Secret Defenders</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Demon:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Doctor Strange:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Doom:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Demon</em></span></p>
+		<p><span style="font-size:14px;"><em>Doctor Strange</em></span></p>
+		<p><span style="font-size:14px;"><em>Doom</em></span></p>
+		<p><span style="font-size:14px;"><em>Do Androids Dream of Electric Sheep?</em></span></p>
 		</div>
 	</div>
 
@@ -304,15 +249,13 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para109')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para109" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para110" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Eclipso:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Eclipso</em></span></p>
+		<p><span style="font-size:14px;"><em>Excalibur</em></span></p>
+		<p><span style="font-size:14px;"><em>Ex Machina</em></span></p>
 		</div>
 	</div>
 
@@ -321,15 +264,13 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para111" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para112" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Flash:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Fantastic Four</em></span></p>
+		<p><span style="font-size:14px;"><em>Firestorm</em></span></p>
+		<p><span style="font-size:14px;"><em>Flash</em></span></p>
 		</div>
 	</div>
 
@@ -338,42 +279,23 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para113')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para113" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para114" style="display:inline;">
-		<p><span style="font-size:14px;"><em>G.I. Joe:</em></span></p>
+		<p><span style="font-size:14px;"><em>G.I. Joe</em></span></p>
+		<p><span style="font-size:14px;"><em>Ghost in the Shell</em></span></p>
+		<p><span style="font-size:14px;"><em>Ghost Rider</em></span></p>
+		<p><span style="font-size:14px;"><em>Green Arrow</em></span></p>
+		<p><span style="font-size:14px;"><em>Green Lantern</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Green Lantern</li>
+				<li>Green Lantern Corps</li>
+				<li>Guy Gardner: Warrior</li>
+				<li>Mosaic</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Ghost in the Shell:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Ghost Rider:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Green Arrow:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Green Lantern:</em></span></p>
-			<ul>
-				<li>Green Lantern, issues </li>
-				<li>Green Lantern Corps, issues </li>
-				<li>Guy Gardner: Warrior, issues </li>
-				<li>Mosaic, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Green Lantern: Misc:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Guardians of the Galaxy:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Green Lantern: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Guardians of the Galaxy</em></span></p>
 		</div>
 	</div>
 
@@ -382,35 +304,21 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para115')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para115" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
-				</div>
+		</div>
 		<div id="para116" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Hawkman:</em></span></p>
+		<p><span style="font-size:14px;"><em>Hawkman</em></span></p>
+		<p><span style="font-size:14px;"><em>Hawkworld</em></span></p>
+		<p><span style="font-size:14px;"><em>Hercules</em></span></p>
+		<p><span style="font-size:14px;"><em>Hero</em></span></p>
+		<p><span style="font-size:14px;"><em>Horobi</em></span></p>
+		<p><span style="font-size:14px;"><em>Hulk:</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Incredible Hulk</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Hawkworld:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Hercules:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Hero:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Horobi:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Human Target:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Hulk: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Human Target</em></span></p>
 		</div>
 	</div>
 
@@ -419,19 +327,16 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para117')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para117" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para118" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Inhumans:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Inhumans</em></span></p>
 		<p><span style="font-size:14px;"><em>Invaders:</em></span></p>
 			<ul>
-				<li>New Invaders, issues </li>
+				<li>New Invaders</li>
 			</ul>
+		<p><span style="font-size:14px;"><em>Iron Man</em></span></p>
 		</div>
 	</div>
 
@@ -440,28 +345,21 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para119')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para119" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para120" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Justice League:</em></span></p>
 			<ul>
-				<li>America, issues </li>
-				<li>Europe, issues </li>
-				<li>International, issues </li>
-				<li>JLA, issues </li>
-				<li>JSA, issues </li>
-				<li>Justice Society of America, issues </li>
+				<li>America</li>
+				<li>Europe</li>
+				<li>International</li>
+				<li>JLA</li>
+				<li>JSA</li>
+				<li>Justice Society of America</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Justice League: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Justice League: Books:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Justice League: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Justice League: Books</em></span></p>
 		</div>
 	</div>
 
@@ -470,19 +368,10 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para121')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para121" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para122" style="display:none;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		</div>
 	</div>
 
@@ -491,17 +380,16 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para123')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para123" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para124" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Legion:</em></span></p>
 			<ul>
-				<li>L.E.G.I.O.N., issues </li>
-				<li>Legion, issues </li>
-				<li>Legionnaires, issues </li>
-				<li>Legion of Superheroes, issues </li>
+				<li>L.E.G.I.O.N.</li>
+				<li>Legion</li>
+				<li>Legionnaires</li>
+				<li>Legion of Superheroes</li>
 			</ul>
 		</div>
 	</div>
@@ -511,27 +399,14 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para125')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para125" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
-				</div>
+		</div>
 		<div id="para126" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Majestic:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Martian Manhunter:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Marvel Superheroes: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Moon Knight:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Majestic</em></span></p>
+		<p><span style="font-size:14px;"><em>Martian Manhunter</em></span></p>
+		<p><span style="font-size:14px;"><em>Marvel Superheroes: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Moon Knight</em></span></p>
 		</div>
 	</div>
 
@@ -540,19 +415,13 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para127')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para127" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para128" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Namor:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Nomad:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Namor</em></span></p>
+		<p><span style="font-size:14px;"><em>Nomad</em></span></p>
+		<p><span style="font-size:14px;"><em>Nova</em></span></p>
 		</div>
 	</div>
 
@@ -561,19 +430,12 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para129')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para129" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para130" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Omega Men:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Orion:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Omega Men</em></span></p>
+		<p><span style="font-size:14px;"><em>Orion</em></span></p>
 		</div>
 	</div>
 
@@ -582,23 +444,14 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para131')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para131" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para132" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Pitt:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Predator:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Promethea:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Pitt</em></span></p>
+		<p><span style="font-size:14px;"><em>Predator</em></span></p>
+		<p><span style="font-size:14px;"><em>Promethea</em></span></p>
+		<p><span style="font-size:14px;"><em>Punisher</em></span></p>
 		</div>
 	</div>
 
@@ -607,15 +460,11 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para133')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para133" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para134" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Quasar:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Quasar</em></span></p>
 		</div>
 	</div>
 
@@ -624,23 +473,14 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para135')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para135" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para136" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Rebels:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>ROM:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Runaways:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Rebels</em></span></p>
+		<p><span style="font-size:14px;"><em>Robin</em></span></p>
+		<p><span style="font-size:14px;"><em>ROM</em></span></p>
+		<p><span style="font-size:14px;"><em>Runaways</em></span></p>
 		</div>
 	</div>
 
@@ -649,84 +489,45 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para137')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para137" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para138" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Secret Files and Origins:</em></span></p>
-			<ul>
-				<li>Secret Files and Origins, __ issues, various. (DC Comics)</li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Shogun Warriors:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Sins of Youth:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Spawn:</em></span></p>
-			<ul>
-				<li>Spawn, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Spawn: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Secret Files and Origins</em></span></p>
+		<p><span style="font-size:14px;"><em>Secret Wars</em></span></p>
+		<p><span style="font-size:14px;"><em>Shogun Warriors</em></span></p>
+		<p><span style="font-size:14px;"><em>She-Hulk</em></span></p>
+		<p><span style="font-size:14px;"><em>Sins of Youth</em></span></p>
+		<p><span style="font-size:14px;"><em>Silver Surfer</em></span></p>
+		<p><span style="font-size:14px;"><em>Spawn</em></span></p>
+		<p><span style="font-size:14px;"><em>Spawn: Misc</em></span></p>
 		<p><span style="font-size:14px;"><em>Spider-Man:</em></span></p>
 			<ul>
-				<li>2099, issues </li>
-				<li>Amazing, issues </li>
-				<li>Spectacular, issues </li>
+				<li>2099 </li>
+				<li>Amazing</li>
+				<li>Spectacular</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Spider-Man: Villains, Misc.:</em></span></p>
+		<p><span style="font-size:14px;"><em>Spider-Man: Misc</em></span></p>
 			<ul>
-				<li>Series, issues </li>
+				<li>Green Goblin</li>
+				<li>Venom</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Star Trek:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Star Wars:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Star Trek</em></span></p>
+		<p><span style="font-size:14px;"><em>Star Wars</em></span></p>
 		<p><span style="font-size:14px;"><em>Superman:</em></span></p>
 			<ul>
-				<li>Action Comics, issues </li>
-				<li>Adventures of Superman, issues </li>
-				<li>Man of Steel, issues </li>
-				<li>Superman, issues </li>
+				<li>Action Comics</li>
+				<li>Adventures of Superman</li>
+				<li>Man of Steel</li>
+				<li>Superman</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Superman: Superboy:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Superman: Supergirl:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Superman: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Superman: Books:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Superman and Batman:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Superman/Batman:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Supreme:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Superman: Superboy</em></span></p>
+		<p><span style="font-size:14px;"><em>Superman: Supergirl</em></span></p>
+		<p><span style="font-size:14px;"><em>Superman: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Superman: Books</em></span></p>
+		<p><span style="font-size:14px;"><em>Superman and Batman</em></span></p>
+		<p><span style="font-size:14px;"><em>Superman/Batman</em></span></p>
+		<p><span style="font-size:14px;"><em>Supreme</em></span></p>
 		</div>
 	</div>
 
@@ -735,41 +536,22 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para139')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para139" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 				</div>
 		<div id="para140" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Tangent:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Thunderbolts:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Tangent</em></span></p>
+		<p><span style="font-size:14px;"><em>Thunderbolts</em></span></p>
 		<p><span style="font-size:14px;"><em>Titans:</em></span></p>
 			<ul>
-				<li>New Titans, issues </li>
-				<li>Team Titans, issues </li>
-				<li>Teen Titans, issues </li>
+				<li>New Titans</li>
+				<li>Team Titans</li>
+				<li>Teen Titans</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>Tom Strong:</em></span></p>
-			<ul>
-				<li>Tom Strong, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Tom Strong: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Transformers:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Transmetropolitan:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Tom Strong</em></span></p>
+		<p><span style="font-size:14px;"><em>Tom Strong: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Transformers</em></span></p>
+		<p><span style="font-size:14px;"><em>Transmetropolitan</em></span></p>
 		</div>
 	</div>
 
@@ -778,19 +560,10 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para141')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para141" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para142" style="display:none;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		</div>
 	</div>
 
@@ -799,15 +572,11 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para143')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para143" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para144" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Valor:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Valor</em></span></p>
 		</div>
 	</div>
 
@@ -816,43 +585,21 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para145')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para145" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para146" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Warlock:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>War Machine:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Warlock</em></span></p>
+		<p><span style="font-size:14px;"><em>War Machine</em></span></p>
 		<p><span style="font-size:14px;"><em>Warriors:</em></span></p>
 			<ul>
-				<li>New Warriors, issues </li>
+				<li>New Warriors</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>War Story:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>What If?:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>What The?:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Wonder Woman:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>World's Finest:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>War Story</em></span></p>
+		<p><span style="font-size:14px;"><em>What If?</em></span></p>
+		<p><span style="font-size:14px;"><em>What The?</em></span></p>
+		<p><span style="font-size:14px;"><em>Wonder Woman</em></span></p>
+		<p><span style="font-size:14px;"><em>World's Finest</em></span></p>
 		</div>
 	</div>
 
@@ -861,22 +608,25 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para147')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para147" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para148" style="display:inline;">
 		<p><span style="font-size:14px;"><em>X-Men:</em></span></p>
 			<ul>
-				<li>2099, issues </li>
-				<li>X-Force, issues </li>
-				<li>X-Men, issues </li>
-				<li>Uncanny X-Men, issues </li>
+				<li>2099</li>
+				<li>Exiles</li>
+				<li>Generation X</li>
+				<li>Mutant X</li>
+				<li>New X-Men</li>
+				<li>X-Factor</li>
+				<li>X-Force</li>
+				<li>X-Man</li>
+				<li>X-Men</li>
+				<li>X-Men Unlimited</li>
+				<li>Uncanny X-Men</li>
 			</ul>
-		<p><span style="font-size:14px;"><em>X-Men: Misc.:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>X-Men: Misc</em></span></p>
 		</div>
 	</div>
 
@@ -885,15 +635,11 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para149')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para149" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para150" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Youngblood:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
+		<p><span style="font-size:14px;"><em>Youngblood</em></span></p>
 		</div>
 	</div>
 
@@ -902,18 +648,9 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para151')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para151" style="display:none;">
 		<ul>
-			<li>Title 1, issues 1-4. (Marvel)</li>
-			<li>Title 2, issues 6, 8. (Image)</li>
+			<li>(To be cataloged)</li>
 		</ul>
 		</div>
 		<div id="para152" style="display:none;">
-		<p><span style="font-size:14px;"><em>Box 1:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Box 2:</em></span></p>
-			<ul>
-				<li>Series, issues </li>
-			</ul>
 		</div>
 	</div>
