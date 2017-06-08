@@ -30,6 +30,7 @@ return false;
 				<li>2099 Unlimited, issues 1-2, 10. (Marvel).</li>
 				<li>2099 World of Tomorrow, issues 1-8. (Marvel).</li>
 				<li>300, issues 1-5. (Dark Horse).</li>
+				<li>5 Days to Die, issues 3-5. (IDW).</li>
 			</ul>
 		</div>
 		<div id="para100" style="display:inline;">
@@ -53,6 +54,8 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para101')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para101" style="display:none;">
 		<ul>
+			<li>A. Bizarro, issues 1, 3. (DC Comics).</li>
+			<li>Abe Sapien, issue 5. (Dark Horse).</li>
 			<li>Abominations, issues 1-3. (Marvel).</li>
 			<li>Adam Strange, books 1-3 (1990). (DC Comics).</li>
 			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics).</li>
@@ -102,6 +105,7 @@ return false;
 			<li>The All New Atom, issues 1-2. (DC Comics).</li>
 			<li>The Authority Prime, issue 6. (Wildstorm).</li>
 			<li>Avengelyne, issue 11. (Maximum Press).</li>
+			<li>Aztek: The Ultimate Man, issue 1. (DC Comics).</li>
 		</ul>
 		</div>
 		<div id="para102" style="display:inline;">
@@ -158,9 +162,11 @@ return false;
 			<li>Badger Bedlam, issue 1. (First).</li>
 			<li>Badrock and Company, issue 6. (Image).</li>
 			<li>Ball and Chain, issue 3. (Homage Comics).</li>
+			<li>Baltimore, issue 2. (Dark Horse).</li>
 			<li>Bangkok, issues 1-4. (Vertigo).</li>
 			<li>Battle Binder Plus, issues 3-4, 6. (Venus Comics).</li>
 			<li>Battle Tide, issues 1-2. (Marvel).</li>
+			<li>Beast, issues 1-3 (1997). (Marvel).</li>
 			<li>Beauty, issues 1-2. (Image).</li>
 			<li>Berlin, issue 1. (Michel Vrana).</li>
 			<li>Betty and Veronica, issue 312. (Close-Up, Inc).</li>
@@ -178,16 +184,24 @@ return false;
 			<li>Black Widow, issues 1, 4, 6 (2004-2005). (Marvel).</li>
 			<li>Black Widow, issues 1-6 (2005-2006). (Marvel).</li>
 			<li>Blackwulf, issues 1-4, 6, 9. (Marvel).</li>
+			<li>Blade, issues 9, 11. (Marvel).</li>
 			<li>Blaze of Glory, issues 1-2, 4. (Marvel).</li>
+			<li>Blink, issue 3. (Marvel).</li>
 			<li>Bloodbath, issues 1-2. (DC Comics).</li>
 			<li>Bloodhound, issue 6. (DC Comics).</li>
+			<li>Bloodshot USA, issue 2. (Valiant).</li>
 			<li>Bloodstrike, issues 1, 4-5, 7, 18. (Image).</li>
 			<li>Blood Syndicate, issues 2, 8. (DC Comics).</li>
 			<li>Blue Beetle, issue 3. (DC Comics).</li>
 			<li>Body Doubles, issues 1, 4. (DC Comics).</li>
 			<li>Book of the Dead, issue 2. (Marvel).</li>
+			<li>Books of Magic, issues 6, 8. (DC Comics).</li>
 			<li>Books of Magick: Life During Wartime, issue 1. (Vertigo).</li>
 			<li>Bone, issues 39-41. (Cartoon Books).</li>
+			<li>B.P.R.D.: 1946, issue 5. (Dark Horse).</li>
+			<li>B.P.R.D.: Hell on Earth, issue 146. (Dark Horse).</li>
+			<li>B.P.R.D.: Killing Ground, issue 4. (Dark Horse).</li>
+			<li>B.P.R.D.: War on Frogs, issue 1. (Dark Horse).</li>
 			<li>Brainbanx, issue 4. (DC Comics).</li>
 			<li>Brave and the Bold, issues 161, 179. (DC Comics).</li>
 			<li>Brave New World, issue 1. (DC Comics).</li>
@@ -227,7 +241,62 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para105')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para105" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Cadilacs and Dinosaurs, issue 1. (Kitchen Sink).</li>
+			<li>Captain Britain and MI1:13, issues 2-3. (Marvel).</li>
+			<li>Captain Universe, issue 9. (Marvel).</li>
+			<li>Captain Universe/Hulk, issue 1. (Marvel).</li>
+			<li>Captain Universe/Daredevil, issue 1. (Marvel).</li>
+			<li>Captain Universe/X-23, issue 1. (Marvel).</li>
+			<li>Captain Universe/Invisible Woman, issue 1. (Marvel).</li>
+			<li>Captain Universe/Silver Surfer, issue 1. (Marvel).</li>
+			<li>Catseye, issue 1. (Hyperwerks Comics).</li>
+			<li>Celestine, issue 2. (Image).</li>
+			<li>Cerebrus, issues 114, 130. (Aardvark-Vanaheim Comics).</li>
+			<li>Cerebrus Church & State, issue 27. (Aardvark-Vanaheim Comics).</li>
+			<li>Challengers of the Unknown, issues 2, 4, 6. (DC Comics).</li>
+			<li>Chapel, issue 3. (Image).</li>
+			<li>Checkmate, issue 12. (DC Comics).</li>
+			<li>The Chimera Brigade, issues 1, 3. (Titan Comics).</li>
+			<li>Cinammon: El Ciclo, issue 1. (Dc Comics).</li>
+			<li>Citizen V and the V-Battalion, issues 1-2. (Marvel).</li>
+			<li>Citizen V and the V-Battalion: The Everlasting, issues 1-4. (Marvel).</li>
+			<li>City of Tomorrow, issue 1-6. (Wildstorm).</li>
+			<li>Civil War, issues 2, 4, 6-7. (Marvel).</li>
+			<li>Civil War: Casualties of War, issue 1. (Marvel).</li>
+			<li>Civil War: Front Line, issues 3, 5. (Marvel).</li>
+			<li>Civil War: Opening Shot, issue 1. (Marvel).</li>
+			<li>Clandestine, The, issue 1. (Marvel).</li>
+			<li>Cobweb, Tomorrow Stories:, issue 5. (America's Best Comics).</li>
+			<li>Collider, issue 1. (Vertigo).</li>
+			<li>Colossus, issue 1. (Marvel).</li>
+			<li>X-Men: Colossus Bloodline, issue 3. (Marvel).</li>
+			<li>Comic Book Comics #2, Our Artists at War, issue 2. (Evil Twin Comics).</li>
+			<li>Conan, issue 12. (Marvel).</li>
+			<li>The Savage Sword of Conan, issue 166. (Marvel).</li>
+			<li>Conan the Barbarian, issue 244-245 (1991). (Marvel).</li>
+			<li>Conan the Barbarian, issue 1 (1997). (Marvel).</li>
+			<li>Conan the King, issue 47. (Marvel).</li>
+			<li>Concrete: Eclectica, issue 1. (Dark Horse).</li>
+			<li>Concrete the Human Dilemma, issues 1-6. (Dark Horse).</li>
+			<li>Conjurors, issue 2. (DC Comics).</li>
+			<li>Contest of Champions, issue 1-3, 5. (Marvel).</li>
+			<li>Cosa Nostroid VI, La, issue 6. (Fireman Press).</li>
+			<li>Cosmic Guard, issue 5. (Devil's Due Publishing).</li>
+			<li>Coven, issues 1-6. (Awesome Entertainment).</li>
+			<li>The Creech, issue 2. (Image).</li>
+			<li>Crew, issue 4. (Marvel).</li>
+			<li>Crimson, issues 9, 11, 14, 17. (WildStorm).</li>
+			<li>Crimson: Scarlet X Blood on the Moon, issue 1. (WildStorm).</li>
+			<li>Crimson Dawn, Psylocke & Archangel, issues 1-4. (Marvel).</li>
+			<li>Crimson Dynamo, issues 1-2, 5. (Marvel).</li>
+			<li>Crimson Plague, issues 1-2. (Image).</li>
+			<li>The Crow/Razor-Kill The Pain, issue 1. (London Night Studios).</li>
+			<li>Cruel and Unusual, issue 2. (Vertigo).</li>
+			<li>The Crusades, issues 1-2, 5-8, 12. (Vertigo).</li>
+			<li>Crush, issue 1 (1995). (Aeon).</li>
+			<li>The Crush, issue 1 (1996). (Image).</li>
+			<li>Crypt, issues 1-2. (Image).</li>
+			<li>Cyber Force, issues 1, 16. (Image).</li>
 		</ul>
 		</div>
 		<div id="para106" style="display:inline;">
