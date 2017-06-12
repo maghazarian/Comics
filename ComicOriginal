@@ -317,7 +317,64 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para107')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para107" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>D.M.7., issue 1. (Vertigo).</li>
+			<li>D.P.7., issues 1, 4-6, 8. (Marvel).</li>
+			<li>D.P.7.: Untold Tales of the New Universe, issue 1. (Marvel).</li>
+			<li>DAM, issue 1. (Dam Comics).</li>
+			<li>Damage Control, volume 1, issues 2, 4 (1989). (Marvel).</li>
+			<li>Damage Control, volume 2, issues 1-4 (1989-1990). (Marvel).</li>
+			<li>Damage Control, WWH Aftersmash, issue 3. (Marvel).</li>
+			<li>Daredevil, issue 1. (Marvel).</li>
+			<li>The Dark, issue 1. (August House).</li>
+			<li>Darkhold: Pages from the Book of Sins, issues 3-6, 9. (Marvel).</li>
+			<li>Darkhold, Rise of the Midnight Sons, issue 4. (Marvel).</li>
+			<li>A Decade of Dark Horse, issue 1. (Dark Horse).</li>
+			<li>Dark Horse Comics, issue 2. (Dark Horse).</li>
+			<li>Dark Horse Presents, issue 2. (Dark Horse).</li>
+			<li>Dark Horse Presents, issue 66. (Dark Horse).</li>
+			<li>Dark Nemesis (Villains), issue 1. (DC Comics).</li>
+			<li>Dark Tower Sketchbook, issue 1. (Marvel).</li>
+			<li>Darkness, issue 11. (Image).</li>
+			<li>Tales of the Darkness, issue 2. (Image).</li>
+			<li>Darkseid, issue 1. (DC Comics).</li>
+			<li>The Darkstars, issues 5, 9. (DC Comics).</li>
+			<li>Darque Passages, issues 1-4. (Valiant, Acclaim Comics).</li>
+			<li>Day of Judgement, issues 1-2, 4-5. (DC Comics).</li>
+			<li>Day of Vengeance, issues 1-2, 4-5. (DC Comics).</li>
+			<li>Day of Vengeance: Infinite Crisis , issue 1. (DC Comics).</li>
+			<li>DC Versus Marvel, issue 4. (DC Comics).</li>
+			<li>DeadBoy Detectives, The Sandman Presents:, issues 2-3, 5. (DC Comics).</li>
+			<li>The Deadly Duo, issue 1. (Image).</li>
+			<li>Deadly Nights, issue 1. (Hungry Man Press).</li>
+			<li>Deadman: Dark Mansion of Forbidden Love, books 1-3. (DC Comics).</li>
+			<li>Death, issue 3. (DC Comics).</li>
+			<li>Death's Head II, issues 1, 4. (Marvel).</li>
+			<li>The Incomplete Death's Head. (Marvel).</li>
+			<li>Deathmate, issue 1 (Blue). (Valiant).</li>
+			<li>Deathmate, issue 1 (Yellow). (Valiant).</li>
+			<li>Deathmate, issue 1 (Silver). (Valiant).</li>
+			<li>Deity II: Catseye, issue 3. (Hyperwerks).</li>
+			<li>Devil Dinosaur, issue 2. (Marvel).</li>
+			<li>District X, issues 3-4, 7. (Marvel).</li>
+			<li>Divine Right, issue 1 (1997). (Image).</li>
+			<li>Divine Right, issue 11 (1999). (Wildstorm).</li>
+			<li>El Diablo, issues 1-4. (DC Comics).</li>
+			<li>Desperate Times, issues 2-4. (Image).</li>
+			<li>Desperadoes, issues 2, 5. (Homage).</li>
+			<li>Desperadoes: Epidemic!, issue 1. (Homage).</li>
+			<li>Doc Samson, issues 1-2, 4 (1996). (Marvel).</li>
+			<li>Doc Samson, issue 1-5 (2006). (Marvel).</li>
+			<li>Doc Savage, issue 11. (DC Comics).</li>
+			<li>Doctor Fate, issues 15, 18, 29 (1990). (DC Comics).</li>
+			<li>Doctor Fate, issues 1, 3, 5 (2003). (DC Comics).</li>
+			<li>Doctor Spectrum, issues 1-6. (Marvel).</li>
+			<li>Domino, issues 2-3. (Marvel).</li>
+			<li>Doomsday, issue 1. (DC Comics).</li>
+			<li>Dr. Speck, issue 4. (Bug Books).</li>
+			<li>The Tomb of Dracula, issue 1. (Marvel ).</li>
+			<li>The Dreaming, issues 1-5, 7-10, 29, 56. (DC Comics).</li>
+			<li>Dreadstar, issue 1, 3-4, 6. (Malibu Comics).</li>
+			<li>DuckTales, issue 5. (Walt Disney Publications).</li>
 		</ul>
 		</div>
 		<div id="para108" style="display:inline;">
@@ -359,7 +416,27 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para111" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Electric Girl, issue 1. (Mighty Gremlin).</li>
+			<li>The Electric Sublime, issue 2. (IDW).</li>
+			<li>Elektra, issues 1-2, 5. (Marvel).</li>
+			<li>Elseworld's Finest, issue 1. (DC Comics).</li>
+			<li>Emma Frost, issues 13-14, 17. (Marvel).</li>
+			<li>X-Men: Emperor Vulcan, issues 1, 5. (Marvel).</li>
+			<li>Empire, issues 0-6. (DC Comics).</li>
+			<li>Enginehead, issue 6. (DC comics).</li>
+			<li>Enigma, issue 1. (DC comics).</li>
+			<li>Epic, issue 3. (Epic Comics).</li>
+			<li>Eradicator, issue 2. (DC Comics).</li>
+			<li>The Eternals, issue 3 (1976). (Marvel).</li>
+			<li>Eternals, issue 1 (2008). (Marvel).</li>
+			<li>Eternals: The Herod Factor, issue 1. (Marvel ).</li>
+			<li>The Eudaemon, issue 1. (Dark Horse).</li>
+			<li>Ex-Mutants, issue 1. (Eternity Comics).</li>
+			<li>Exit 6, issue 4. (Plastic Spoon Press).</li>
+			<li>Extreme Destroyer Epilogue, issue 1. (Image).</li>
+			<li>Extreme Justice, issue 13. (DC Comics).</li>
+			<li>Extreme Sacrifice Prelude, issue 1. (Image).</li>
+			<li>Eye of the Storm Annual, issue 1. (WildStorm).</li>
 		</ul>
 		</div>
 		<div id="para112" style="display:inline;">
