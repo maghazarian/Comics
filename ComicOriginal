@@ -55,7 +55,7 @@ return false;
 		<div id="para101" style="display:none;">
 		<ul>
 			<li>A. Bizarro, issues 1, 3. (DC Comics).</li>
-			<li>Abe Sapien, issue 5. (Dark Horse).</li>
+			<li>Abe Sapien, issues 1-2, 4-5. (Dark Horse).</li>
 			<li>Abominations, issues 1-3. (Marvel).</li>
 			<li>Adam Strange, books 1-3 (1990). (DC Comics).</li>
 			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics).</li>
@@ -85,7 +85,7 @@ return false;
 			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics).</li>
 			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics).</li>
 			<li>Arcanum, issue 5. (Image).</li>
-			<li>Ares, issue 1. (Marvel).</li>
+			<li>Ares, issues 1, 3-5. (Marvel).</li>
 			<li>Aresenic Lullaby. (A. Silent Comics).</li>
 			<li>Argus, issue 1. (DC Comics).</li>
 			<li>Arkham Asylum: Living Hell, issue 4. (DC Comics).</li>
@@ -100,10 +100,13 @@ return false;
 			<li>Ascension, issues 11-12. (Image).</li>
 			<li>Assassins, issue 1. (Amalgam).</li>
 			<li>Astro City, issue 11. (Image).</li>
+			<li>Astro City: Beautie, issue 1. (WildStorm).</li>
 			<li>The Atheist, issues 1-2. (Image).</li>
 			<li>The Atlantis Chronicles, issues 1-7. (DC Comics).</li>
 			<li>The All New Atom, issues 1-2. (DC Comics).</li>
-			<li>The Authority Prime, issue 6. (Wildstorm).</li>
+			<li>The Authority, issues 1-2 (2006). (Wildstorm).</li>
+			<li>The Authority, issue 1 (2008). (Wildstorm).</li>
+			<li>The Authority Prime, issues 1-6. (Wildstorm).</li>
 			<li>Avengelyne, issue 11. (Maximum Press).</li>
 			<li>Aztek: The Ultimate Man, issue 1. (DC Comics).</li>
 		</ul>
@@ -184,7 +187,7 @@ return false;
 			<li>Black Widow, issues 1, 4, 6 (2004-2005). (Marvel).</li>
 			<li>Black Widow, issues 1-6 (2005-2006). (Marvel).</li>
 			<li>Blackwulf, issues 1-4, 6, 9. (Marvel).</li>
-			<li>Blade, issues 9, 11. (Marvel).</li>
+			<li>Blade, issues 1-12. (Marvel).</li>
 			<li>Blaze of Glory, issues 1-2, 4. (Marvel).</li>
 			<li>Blink, issue 3. (Marvel).</li>
 			<li>Bloodbath, issues 1-2. (DC Comics).</li>
@@ -198,10 +201,12 @@ return false;
 			<li>Books of Magic, issues 6, 8. (DC Comics).</li>
 			<li>Books of Magick: Life During Wartime, issue 1. (Vertigo).</li>
 			<li>Bone, issues 39-41. (Cartoon Books).</li>
-			<li>B.P.R.D.: 1946, issue 5. (Dark Horse).</li>
+			<li>B.P.R.D.: 1946, issues 1-5. (Dark Horse).</li>
+			<li>B.P.R.D.: Garden of Souls, issues 1-2. (Dark Horse).</li>
 			<li>B.P.R.D.: Hell on Earth, issue 146. (Dark Horse).</li>
-			<li>B.P.R.D.: Killing Ground, issue 4. (Dark Horse).</li>
+			<li>B.P.R.D.: Killing Ground, issues 1-2, 4. (Dark Horse).</li>
 			<li>B.P.R.D.: War on Frogs, issue 1. (Dark Horse).</li>
+			<li>B.P.R.D.: The Warning, issue 1. (Dark Horse).</li>
 			<li>Brainbanx, issue 4. (DC Comics).</li>
 			<li>Brave and the Bold, issues 161, 179. (DC Comics).</li>
 			<li>Brave New World, issue 1. (DC Comics).</li>
