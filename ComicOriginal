@@ -107,6 +107,7 @@ return false;
 			<li>The Authority, issues 1-2 (2006). (Wildstorm).</li>
 			<li>The Authority, issue 1 (2008). (Wildstorm).</li>
 			<li>The Authority Prime, issues 1-6. (Wildstorm).</li>
+			<li>Secret History of The Authority: Hawksmoor, issues 1-2. (Wildstorm).</li>
 			<li>Avengelyne, issue 11. (Maximum Press).</li>
 			<li>Aztek: The Ultimate Man, issue 1. (DC Comics).</li>
 		</ul>
@@ -149,6 +150,19 @@ return false;
 		<p><span style="font-size:14px;"><em>American Century:</em></span></p>
 			<ul>
 				<li>American Century, issues 1-25 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Annihilation:</em></span></p>
+			<ul>
+				<li>Annihilation Prologue, issue 1. (Marvel).</li>
+				<li>Annihilation, issues 1-6. (Marvel).</li>
+				<li>Annihilation: Conquest Prologue, issue 1. (Marvel).</li>
+				<li>Annihilation: Conquest, issues 1-6. (Marvel).</li>
+				<li>Annihilation: Conquest - Quasar, issues 1, 3-4. (Marvel).</li>
+				<li>Annihilation: Conquest - Wraith, issues 1-4. (Marvel).</li>
+				<li>Annihilation: Heralds of Galactus, issues 1-2. (Marvel).</li>
+				<li>Annihilation: Ronan, issues 1-4. (Marvel).</li>
+				<li>Annihilation: Silver Surfer, issues 1-4. (Marvel).</li>
+				<li>Annihilation: Super Skrull, issues 1-4. (Marvel).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Avengers</em></span></p>
 		</div>
@@ -680,9 +694,9 @@ return false;
 		<p><span style="font-size:14px;"><em>Spawn: Misc</em></span></p>
 		<p><span style="font-size:14px;"><em>Spider-Man:</em></span></p>
 			<ul>
-				<li>2099 </li>
-				<li>Amazing</li>
-				<li>Spectacular</li>
+				<li>2099</li>
+				<li>Amazing Spider-Man</li>
+				<li>Spectacular Spider-Man</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Spider-Man: Misc</em></span></p>
 			<ul>
@@ -705,6 +719,7 @@ return false;
 		<p><span style="font-size:14px;"><em>Superman and Batman</em></span></p>
 		<p><span style="font-size:14px;"><em>Superman/Batman</em></span></p>
 		<p><span style="font-size:14px;"><em>Supreme</em></span></p>
+		<p><span style="font-size:14px;"><em>Supreme Power</em></span></p>
 		</div>
 	</div>
 
