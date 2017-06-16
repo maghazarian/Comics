@@ -425,21 +425,6 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para109')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para109" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
-		</ul>
-		</div>
-		<div id="para110" style="display:inline;">
-		<p><span style="font-size:14px;"><em>Eclipso</em></span></p>
-		<p><span style="font-size:14px;"><em>Excalibur</em></span></p>
-		<p><span style="font-size:14px;"><em>Ex Machina</em></span></p>
-		</div>
-	</div>
-
-<p><span style="font-size:16px;"><a onclick="return toggleMe('para7')" style="cursor:pointer;"><b>F</b></a></span></p>
-	<div id="para7" style="display:none;">
-		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
-		<div id="para111" style="display:none;">
-		<ul>
 			<li>Electric Girl, issue 1. (Mighty Gremlin).</li>
 			<li>The Electric Sublime, issue 2. (IDW).</li>
 			<li>Elektra, issues 1-2, 5. (Marvel).</li>
@@ -462,6 +447,48 @@ return false;
 			<li>Extreme Justice, issue 13. (DC Comics).</li>
 			<li>Extreme Sacrifice Prelude, issue 1. (Image).</li>
 			<li>Eye of the Storm Annual, issue 1. (WildStorm).</li>
+		</ul>
+		</div>
+		<div id="para110" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Eclipso</em></span></p>
+		<p><span style="font-size:14px;"><em>Excalibur</em></span></p>
+		<p><span style="font-size:14px;"><em>Ex Machina</em></span></p>
+		</div>
+	</div>
+
+<p><span style="font-size:16px;"><a onclick="return toggleMe('para7')" style="cursor:pointer;"><b>F</b></a></span></p>
+	<div id="para7" style="display:none;">
+		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
+		<div id="para111" style="display:none;">
+		<ul>
+			<li>Flaming Carrot Comics, issue 31. (Dark Horse Comics).</li>
+			<li>The First, issue 1. (CrossGeneration Comics).</li>
+			<li>Fire From Heaven, issue 2. (Image).</li>
+			<li>Fire From Heaven: DeathBlow, issues 26-28. (Image).</li>
+			<li>Fire From Heaven: Sigma, issue 1. (Image).</li>
+			<li>Fire From Heaven: Sword of Damocles, issue 2. (Image).</li>
+			<li>The Final Night, issues 1-4. (DC Comics).</li>
+			<li>The Final Night: Takion, issue 6. (DC Comics).</li>
+			<li>Fantastic Force, issue 1. (Marvel).</li>
+			<li>Fan Boy, issue 5. (DC Comics).</li>
+			<li>Fallen Angel, issues 2-5, 8, 11 (2003). (DC Comics).</li>
+			<li>Fallen Angel, issues 1, 4, 9 ((2005). (IDW).</li>
+			<li>The Falcon, issues 1-4. (Marvel).</li>
+			<li>Flash & Green Lantern: The Brave and the Bold, issues 3-4. (DC Comics).</li>
+			<li>Flex Mentallo, issues 1, 3. (DC Comics).</li>
+			<li>Flying Colors, issue 1. (Flying Colors Comics & Other Cool Stuff).</li>
+			<li>Foolkiller, issues 7, 9 (1991). (Marvel).</li>
+			<li>Foolkiller, issues 1-2, 4-5 (2007). (Marvel).</li>
+			<li>Foolkiller: White Angels, issue 1. (Marvel).</li>
+			<li>Force Works, issues 18-22. (Marvel).</li>
+			<li>Jack Kirby's Fourth World, issues 1-3, 9, 13, 16, 18-20. (DC Comics).</li>
+			<li>From Hell, issue 1. (Mad Love Publishing).</li>
+			<li>Fred Hembeck Destroys the Marvel Universe, issue 1. (Marvel).</li>
+			<li>The Furies, issue 5. (Carbon-Based Comics).</li>
+			<li>Fury: Peacemaker, issues 2-6. (Marvel).</li>
+			<li>Fury, issues 1-6 (2001). (Marvel).</li>
+			<li>Futurama, issue 1. (Bongo).</li>
+			<li>Future Cop, issue 1. (Wildstorm).</li>
 		</ul>
 		</div>
 		<div id="para112" style="display:inline;">
