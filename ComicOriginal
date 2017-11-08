@@ -689,10 +689,10 @@ return false;
 			<li>The Legend of Kamui, issue 6. (Eclipse Comics).</li>
 			<li>Kazar the Savage, issues 8-9. (Marvel).</li>
 			<li>Seven Soldiers: Klarion the Witch Boy, issues 1-4. (DC Comics).</li>
-			<li>Knightshift, issue 1. (London Night Studios).</li>
-			<li>The Knights of Pendragon, issues 1, 3-4, 11. (Marvel).</li>
 			<li>Knightmare, issue 0. (Image Comics).</li>
-			<li>Operation: Knightstrike, issues 1-3. (Image Comics).</li>
+			<li>The Knights of Pendragon, issues 1, 3-4, 11. (Marvel).</li>
+			<li>Knightshift, issue 1. (London Night Studios).</li>
+				<li>Operation: Knightstrike, issues 1-3. (Image Comics).</li>
 		</ul>
 				</div>
 		<div id="para122" style="display:none;">
@@ -704,18 +704,19 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para123')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para123" style="display:none;">
 		<ul>
+			<li>Neil Gaiman's Lady Justice, issue 1. (Tekno Comix).</li>
 			<li>Last Hero Standing, issues 1-5. (Marvel).</li>
 			<li>Last Planet Standing, issues 1-4. (Marvel).</li>
 			<li>Lazarus Five, issues 1, 3-5. (DC Comics).</li>
-			<li>Legends of the DC Universe, issues 1, 33. (DC Comics).</li>
 			<li>Legends of the Dark Claw, issue 1. (DC Comics).</li>
+			<li>Legends of the DC Universe, issues 1, 33. (DC Comics).</li>
 			<li>Legends of Tomorrow, issues 3-4, 6. (DC Comics).</li>
 			<li>Legion Worlds, issues 1-6. (DC Comics).</li>
 			<li>Sam Stories: Legs. (Image Comics).</li>
 			<li>Lex Luthor: Man of Steel, issues 3-4. (DC Comics).</li>
-			<li>Lobo, issues 1-2 (1990). (DC Comics).</li>
+			<li>Lobo, issues 1-2 (of 4). (DC Comics).</li>
 			<li>Lobo, issue 49 (1998). (DC Comics).</li>
-			<li>Lobo: Unbound, issues 4-5. (DC Comics).</li>
+			<li>Lobo: Unbound, issues 4-5 (of 6). (DC Comics).</li>
 			<li>The Looking Glass Wars: Hatter M, issue 1. (Image).</li>
 			<li>Looney Tunes, issue 15. (Western Publishing Company).</li>
 			<li>Losers, issues 3, 7-8, 10, 20. (Vertigo).</li>
@@ -723,6 +724,7 @@ return false;
 			<li>Lucifer, issue 55. (Vertigo).</li>
 			<li>Lum, issue 2. (Viz Comics).</li>
 			<li>The Return of Lum, issues 1-7. (Viz Comics).</li>
+			<li>Lumberjanes, issues 19, 21-22, 29. (Boom).</li>
 		</ul>
 		</div>
 		<div id="para124" style="display:inline;">
@@ -741,7 +743,66 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para125')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para125" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Machine Man, issue 12. (Marvel).</li>
+			<li>Machine Man 2020, issues 1-2. (Marvel).</li>
+			<li>Macrosse II, issue 4. (Viz Comics).</li>
+			<li>Magic: The Gathering, issue 3. (IDW).</li>
+			<li>Magik, issue 4. (Marvel).</li>
+			<li>Magneto, issues 1-2, 4. (Marvel).</li>
+			<li>Magneto and His Magnetic Men, issue 1. (Amalgam).</li>
+			<li>Magnus Robot Fighter, issue 5. (Valiant).</li>
+			<li>Maison Ikkoku, volume 3, issue 6. (Viz Comics).</li>
+			<li>Maison Ikkoku, volume 4, issues 1-4, 7-10. (Viz Comics).</li>
+			<li>Maison Ikkoku, volume 5, issue 1. (Viz Comics).</li>
+			<li>Major Bummer, issues 6, 9. (DC Comics).</li>
+			<li>March, issue 1. (Top Shelf Productions).</li>
+			<li>Mark Hazzard: Merc, issue 6. (Marvel).</li>
+			<li>Marvel Boy, issues 5-6. (Marvel).</li>
+			<li>Marvel Knights, issues 1-2, 6-7, 12. (Marvel).</li>
+			<li>Marvel Knights/Marvel Boy, issue 1. (Marvel).</li>
+			<li>Marvel Nemesis: The Imperfects, issues 1-6 (of 6). (Marvel).</li>
+			<li>Marvel Universe, issue 1. (Marvel).</li>
+			<li>Marvel Zombies, issues 1-2, 4-5 (of 5). (Marvel).</li>
+			<li>Marvel Zombies 2, issues 2-5 (of 5). (Marvel).</li>
+			<li>Massacres Marvel, issue 1. (Marvel).</li>
+			<li>Master of Kung Fu, issues 106, 121, 123. (Marvel).</li>
+			<li>Maverick, issues 6, 12. (Marvel).</li>
+			<li>Maximage, issues 2-3. (Image).</li>
+			<li>Maximum Security, issues 1-3 (of 3). (Marvel).</li>
+			<li>Maxx: Maxximized, issue 15. (IDW).</li>
+			<li>The Maze Agency, issue 16. (Innovation).</li>
+			<li>Mega Morphs, issue 1 (of 4). (Marvel).</li>
+			<li>Men in Black: Far Cry, issue 1. (Marvel).</li>
+			<li>The Mercenary Sea, issues 1-8. (Image).</li>
+			<li>Metal Men, issues 1-4. (DC Comics).</li>
+			<li>Metamorpho, issues 1-2. (DC Comics).</li>
+			<li>Micronauts, issues 2-4 (2002). (Image).</li>
+			<li>Micronauts, issues 2, 9, 52-57 (gaps). (Marvel).</li>
+			<li>Micronauts: Karza, issue 1 (of 4). (Image).</li>
+			<li>Midnight Sons: Unlimited, issues 1-3. (Marvel).</li>
+			<li>Midnighter, issues 1-3. (WildStorm).</li>
+			<li>Mighty Mouse, issue 4. (Marvel).</li>
+			<li>Millennium, issues 1-3. (DC Comics).</li>
+			<li>The Minx, issue 1. (Vertigo).</li>
+			<li>Misery, (1995). (Image).</li>
+			<li>Mister Blank, issue 6. (Slave Labor Graphics).</li>
+			<li>Mister Miracle, issues 18-25 (gaps). (DC Comics).</li>
+			<li>Mister X, issue 2. (Caliber).</li>
+			<li>A Moment of Silence, issue 1. (Marvel).</li>
+			<li>Monkeyman and O'Brien, issue 3 (of 3). (Dark Horse).</li>
+			<li>The Monolith, issues 1-12 (gaps). (DC Comics).</li>
+			<li>Monster, issue 4. (Dark Horse).</li>
+			<li>Moonshadow, issues 9, 12. (Epic).</li>
+			<li>Morbius, issues 1, 5-7. (Marvel).</li>
+			<li>Most Likely to Succeed, (1997). (Killjoy Press).</li>
+			<li>Mother Superion, issue 1. (Antarctic Press).</li>
+			<li>Motorhead, issues 1, 3. (Dark Horse).</li>
+			<li>Ms. Marvel, issues 1-6, 16, 25-29-2006. (Marvel).</li>
+			<li>My Faith in Frankie, issue 3 (of 4). (Vertigo).</li>
+			<li>Myopia, issue 1. (Dynamite).</li>
+			<li>Mystery in Space, issue 1. (DC Comics).</li>
+			<li>Mysterymen, issue 1. (Dark Horse).</li>
+			<li>Mystique, issues 16-18. (Marvel).</li>
 		</ul>
 		</div>
 		<div id="para126" style="display:inline;">
@@ -855,6 +916,12 @@ return false;
 				<li>Venom</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Star Trek</em></span></p>
+			<ul>
+				<li>Star Trek, issues 2-9, 15-18 (gaps). (Marvel).</li>
+				<li>Star Trek: First Contact, issue 1. (Marvel).</li>
+				<li>Star Trek: Starfleet Academy, issue 1. (Marvel).</li>
+				<li>Star Trek: The Next Generation, issues 40, 53. (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Star Wars</em></span></p>
 		<p><span style="font-size:14px;"><em>Superman:</em></span></p>
 			<ul>
@@ -915,11 +982,23 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para143')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para143" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Valkyrie, issue 1 (1997). (Marvel).</li>
+			<li>Vampire Hunter D, issue 1 (of 5). (Stranger Comics).</li>
+			<li>Vampirella's Summer Nights, (1992). (Harris Comics).</li>
+			<li>Vanguard, issue 3. (Image).</li>
+			<li>Vanity Angel, issue 6. (Venus Comics).</li>
+			<li>Veena, issue 1. (Eric Theriault Press).</li>
+			<li>Victorian, issue 1. (Penny-Farthing Press).</li>
+			<li>Villains United, issues 1-6 (of 6). (DC Comics).</li>
+			<li>Villains United: Infinite Crisis Special, issue 1. (DC Comics).</li>
+			<li>Vimanarama, issues 1-2 (of 3). (Vertigo).</li>
+			<li>Violator, issues 1-3. (Image).</li>
+			<li>Voodoo, issues 1-4 (of 4). (Image).</li>
 		</ul>
 		</div>
 		<div id="para144" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Valor</em></span></p>
+			<li>Valor, issues 2-23 (gaps). (DC Comics).</li>
 		</div>
 	</div>
 
@@ -928,7 +1007,46 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para145')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para145" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>War of the Gods, issues 1-4. (DC Comics).</li>
+			<li>Warlock, issue 4. (Marvel).</li>
+			<li>Warlord, issue 1 (1992). (DC Comics).</li>
+			<li>Warlord, issues 80, 82. (DC Comics).</li>
+			<li>Warrior Nun: Black and White, issue 6. (Antarctic Press).</li>
+			<li>Watchmen: Before Watchmen: Comedian, issues 5-6 (of 6). (DC Comics).</li>
+			<li>Watchmen: Before Watchmen: Minutemen, issues 2-4 (of 6). (DC Comics).</li>
+			<li>Watchmen: Before Watchmen: Moloch, issue 1 (of 2). (DC Comics).</li>
+			<li>We3, issues 1-3. (Vertigo).</li>
+			<li>Weird War Tales, issues 1-2 (of 4). (DC Comics).</li>
+			<li>Weird War Tales, issue 96. (DC Comics).</li>
+			<li>Weird Western Tales, issues 1-2, 4 (of 4). (DC Comics).</li>
+			<li>Werewolf by Night, issues 3-4. (Marvel).</li>
+			<li>Wetworks, issue 1. (Image).</li>
+			<li>White Like She, issue 22 of 4. (Dark Horse).</li>
+			<li>Who's Who, issues 6-7. (DC Comics).</li>
+			<li>Who's Who in the Legion of Superheroes, issue 4 (of 7). (DC Comics).</li>
+			<li>Wicked + The Divine, The, issue 22. (Image).</li>
+			<li>Wild Thing, issues 1-3. (Marvel).</li>
+			<li>WildC.A.T.S, issue 42. (Image).</li>
+			<li>WildC.A.T.S: Annual, issue 1. (Image).</li>
+			<li>WildC.A.T.S: Covert Action Teams, issue 1, 3 (of 4). (Image).</li>
+			<li>Wildcats, volume 4, issue 1. (WildStorm).</li>
+			<li>Wildcats, issue 5. (WildStorm).</li>
+			<li>Wildcore, issue 9. (Image).</li>
+			<li>WildStar, issue 2. (Image).</li>
+			<li>WildStar: Sky Zero, issue 1, 4 (of 4). (Image).</li>
+			<li>WildStorm Rising, issue 2. (Image).</li>
+			<li>WildStorm Summer Special, issue . (WildStorm).</li>
+			<li>Wildstorm Universe, issue 3. (Image).</li>
+			<li>WildStorm Winter Special, issue . (WildStorm).</li>
+			<li>Wildstorm!, issue 1. (Image).</li>
+			<li>Will to Power, issue 1. (Dark Horse).</li>
+			<li>Wisdom, issue 6 (of 6). (Marvel).</li>
+			<li>Witchblade, issue 13, 22, 34-39 (gaps). (Image).</li>
+			<li>Witches, issues 1-4. (Marvel).</li>
+			<li>The Witching, issues 1-10 (gaps). (Vertigo).</li>
+			<li>Wolf, issues 2-4. (Image).</li>
+			<li>Wonder Man, issue 5-9, 15-16 (gaps). (Marvel).</li>
+			<li>World Below: Deeper and Stranger, issue 4 (of 4). (Dark Horse).</li>
 		</ul>
 		</div>
 		<div id="para146" style="display:inline;">
@@ -978,11 +1096,34 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para149')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para149" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Yakuza Demon Killers, issues 1-2. (IDW).</li>
+			<li>Young Heroes in Love, issues 8, 16. (DC Comics).</li>
 		</ul>
 		</div>
 		<div id="para150" style="display:inline;">
+		<p><span style="font-size:14px;"><em>Y the Last Man</em></span></p>
+			<ul>
+				<li>Y the Last Man, issues 8-36, 57-60 (gaps). (Vertigo).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Youngblood</em></span></p>
+			<ul>
+				<li>Extremely Youngblood, issue 1. (Image).</li>
+				<li>Team Youngblood, issues 10-14, 18, 20-22. (Image).</li>
+				<li>Youngblood, volume 2, issues 1-9. (Image).</li>
+				<li>Youngblood, volume 2, issue 14. (Maximum Press).</li>
+				<li>Youngblood, volume 3, issues 1-2. (Awesome Entertainment).</li>
+				<li>Youngblood, issues 0-10 (gaps). (1992-1994) (Image).</li>
+				<li>Youngblood Battlezone, issue 1. (Image).</li>
+				<li>Youngblood Genesis, issue 1. (Arcade Comics).</li>
+				<li>Youngblood Genesis, issue 2. (Arcade Comics).</li>
+				<li>Youngblood Super Special, issue 1. (1997) (Maximum Press).</li>
+				<li>Youngblood: Strikefile, issue 1. (Image).</li>
+				<li>Youngblood: Strikefile, issue 2. (Image).</li>
+				<li>Youngblood: Strikefile, issue 3. (Image).</li>
+				<li>Youngblood: Strikefile, issue 4. (Image).</li>
+				<li>Youngblood: Strikefile, issue 7. (Image).</li>
+				<li>Youngblood: Yearbook, issue 1. (Image).</li>
+			</ul>
 		</div>
 	</div>
 
@@ -991,7 +1132,13 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para151')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para151" style="display:none;">
 		<ul>
-			<li>(To be cataloged)</li>
+			<li>Zatanna, issue 2 (of 4) (2005). (DC Comics).</li>
+			<li>Zatanna, issue 3 (2010). (DC Comics).</li>
+			<li>Zealot, issue 3 (1995). (Image).</li>
+			<li>Zero Hour: Crisis in Time, issues 3-4 (1994). (DC Comics).</li>
+			<li>Zero Tolerance, issues 1, 3 (of 4). (First Publishing).</li>
+			<li>ZombieWorld: Dead End, issue 2 (of 2). (Dark Horse).</li>
+			<li>Zorro, issue 1 (1990). (Marvel).</li>
 		</ul>
 		</div>
 		<div id="para152" style="display:none;">
