@@ -119,26 +119,26 @@ return false;
 			</ul>
 		<p><span style="font-size:14px;"><em>Aliens:</em></span></p>
 			<ul>
-				<li>Aliens: Alchemy, issues 1-3. (Dark Horse Comics).</li>
-				<li>Aliens: Apocalypse: The Destroying Angels, issue 4. (Dark Horse Comics).</li>
-				<li>Aliens: Berserker, issues 1-4. (Dark Horse Comics).</li>
-				<li>Aliens: Earth War, issues 1-4. (Dark Horse Comics).</li>
-				<li>Aliens: Glass Corridor, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Havoc, issues 1-2. (Dark Horse Comics).</li>
-				<li>Aliens: Hive, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Kidnapped, issue 3. (Dark Horse Comics).</li>
-				<li>Aliens: Lovesick, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Mondo Pest, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Newt's Tale, issues 1-2. (Dark Horse Comics).</li>
-				<li>Aliens: Purge, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Sacrifice. (Dark Horse Comics).</li>
-				<li>Aliens: Stalker, issue 1. (Dark Horse Comics).</li>
-				<li>Aliens: Survival, issues 1-3. (Dark Horse Comics).</li>
-				<li>Aliens: Xenogenesis, issues 2,4. (Dark Horse Comics).</li>
-				<li>Alien Versus Predator, issue 3. (Dark Horse Comics).</li>
-				<li>Dark Horse Classics: Aliens Versus Predator, issue 3. (Dark Horse Comics).</li>
-				<li>Aliens Versus Predator: Duel, issues 1-2. (Dark Horse Comics).</li>
-				<li>Aliens Versus Predator: War, issues 0-4. (Dark Horse Comics).</li>
+				<li>Aliens: Alchemy, issues 1-3. (Dark Horse).</li>
+				<li>Aliens: Apocalypse: The Destroying Angels, issue 4. (Dark Horse).</li>
+				<li>Aliens: Berserker, issues 1-4. (Dark Horse).</li>
+				<li>Aliens: Earth War, issues 1-4. (Dark Horse).</li>
+				<li>Aliens: Glass Corridor, issue 1. (Dark Horse).</li>
+				<li>Aliens: Havoc, issues 1-2. (Dark Horse).</li>
+				<li>Aliens: Hive, issue 1. (Dark Horse).</li>
+				<li>Aliens: Kidnapped, issue 3. (Dark Horse).</li>
+				<li>Aliens: Lovesick, issue 1. (Dark Horse).</li>
+				<li>Aliens: Mondo Pest, issue 1. (Dark Horse).</li>
+				<li>Aliens: Newt's Tale, issues 1-2. (Dark Horse).</li>
+				<li>Aliens: Purge, issue 1. (Dark Horse).</li>
+				<li>Aliens: Sacrifice. (Dark Horse).</li>
+				<li>Aliens: Stalker, issue 1. (Dark Horse).</li>
+				<li>Aliens: Survival, issues 1-3. (Dark Horse).</li>
+				<li>Aliens: Xenogenesis, issues 2,4. (Dark Horse).</li>
+				<li>Alien Versus Predator, issue 3. (Dark Horse).</li>
+				<li>Dark Horse Classics: Aliens Versus Predator, issue 3. (Dark Horse).</li>
+				<li>Aliens Versus Predator: Duel, issues 1-2. (Dark Horse).</li>
+				<li>Aliens Versus Predator: War, issues 0-4. (Dark Horse).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Alpha Flight:</em></span></p>
 			<ul>
@@ -326,7 +326,17 @@ return false;
 		<p><span style="font-size:14px;"><em>Captain Atom</em></span></p>
 		<p><span style="font-size:14px;"><em>Captain Marvel</em></span></p>
 		<p><span style="font-size:14px;"><em>Catwoman</em></span></p>
+			<ul>
+				<li>Catwoman, issues 29-69 (gaps). (DC Comics).</li>
+				<li>Catwoman Annual, issue 3 (1996). (DC Comics).</li>
+				<li>Showcase '93: Catwoman, issue 2. (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Cloak and Dagger</em></span></p>
+			<ul>
+				<li>Cloak and Dagger, issues 1-4 (of 4) (1983). (Marvel).</li>
+				<li>Cloak and Dagger, volume 1, issues 8-18 (gaps). (Marvel).</li>
+				<li>Cloak and Dagger, volume 2, issues 1-10 (gaps).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Crisis</em></span></p>
 		<p><span style="font-size:14px;"><em>Crying Freeman</em></span></p>
 		</div>
@@ -347,26 +357,28 @@ return false;
 			<li>Daredevil, issue 1 (2007). (Marvel).</li>
 			<li>Daredevil, issue 100 (2007). (Marvel).</li>
 			<li>The Dark, issue 1. (August House).</li>
-			<li>Darkhold: Pages from the Book of Sins, issues 3-6, 9. (Marvel).</li>
-			<li>Darkhold, Rise of the Midnight Sons, issue 4. (Marvel).</li>
-			<li>A Decade of Dark Horse, issue 1. (Dark Horse).</li>
 			<li>Dark Horse Comics, issue 2. (Dark Horse).</li>
 			<li>Dark Horse Presents, issue 2. (Dark Horse).</li>
 			<li>Dark Horse Presents, issue 66. (Dark Horse).</li>
+			<li>A Decade of Dark Horse, issue 1. (Dark Horse).</li>
 			<li>Dark Nemesis (Villains), issue 1. (DC Comics).</li>
+			<li>Dark Nights: Metal, issue 2. (DC Comics).</li>
 			<li>The Dark Tower Sketchbook, issue 1. (Marvel).</li>
 			<li>The Dark Tower: The Gunslinger Born, issue 1. (Marvel).</li>
+			<li>Darkhold: Pages from the Book of Sins, issues 3-6, 9. (Marvel).</li>
+			<li>Darkhold, Rise of the Midnight Sons, issue 4. (Marvel).</li>
 			<li>Darkness, issue 11. (Image).</li>
 			<li>Tales of the Darkness, issue 2. (Image).</li>
 			<li>Darkseid, issue 1. (DC Comics).</li>
+			<li>Darkseid vs. Galactus: The Hunger, issue 1. (DC Comics).</li>
 			<li>The Darkstars, issues 5, 9. (DC Comics).</li>
 			<li>Darque Passages, issues 1-4. (Valiant, Acclaim Comics).</li>
 			<li>Day of Judgement, issues 1-2, 4-5. (DC Comics).</li>
 			<li>Day of Vengeance, issues 1-2, 4-5. (DC Comics).</li>
 			<li>Day of Vengeance: Infinite Crisis , issue 1. (DC Comics).</li>
-			<li>DC Versus Marvel, issue 4. (DC Comics).</li>
 			<li>DC Universe, issue 0. (DC Comics).</li>
-			<li>DeadBoy Detectives, The Sandman Presents:, issues 2-3, 5. (DC Comics).</li>
+			<li>DC Versus Marvel, issue 4. (DC Comics).</li>
+			<li>The Sandman Presents: DeadBoy Detectives, issues 2-3, 5. (DC Comics).</li>
 			<li>The Deadly Duo, issue 1. (Image).</li>
 			<li>Deadly Nights, issue 1. (Hungry Man Press).</li>
 			<li>Deadman: Dark Mansion of Forbidden Love, books 1-3. (DC Comics).</li>
@@ -377,34 +389,42 @@ return false;
 			<li>Deathmate, issue 1 (Yellow). (Valiant).</li>
 			<li>Deathmate, issue 1 (Silver). (Valiant).</li>
 			<li>Deity II: Catseye, issue 3. (Hyperwerks).</li>
+			<li>Desperadoes, issues 2, 5. (Homage).</li>
+			<li>Desperadoes: Epidemic!, issue 1. (Homage).</li>
+			<li>Desperate Times, issues 2-4. (Image).</li>
 			<li>Devil Dinosaur, issue 2. (Marvel).</li>
+			<li>El Diablo, issues 1-4. (DC Comics).</li>
 			<li>District X, issues 3-4, 7. (Marvel).</li>
 			<li>Divine Right, issue 1 (1997). (Image).</li>
 			<li>Divine Right, issue 11 (1999). (Wildstorm).</li>
-			<li>El Diablo, issues 1-4. (DC Comics).</li>
-			<li>Desperate Times, issues 2-4. (Image).</li>
-			<li>Desperadoes, issues 2, 5. (Homage).</li>
-			<li>Desperadoes: Epidemic!, issue 1. (Homage).</li>
 			<li>Doc Samson, issues 1-2, 4 (1996). (Marvel).</li>
 			<li>Doc Samson, issue 1-5 (2006). (Marvel).</li>
 			<li>Doc Savage, issue 11. (DC Comics).</li>
 			<li>Doctor Fate, issues 15, 18, 29 (1990). (DC Comics).</li>
 			<li>Doctor Fate, issues 1, 3, 5 (2003). (DC Comics).</li>
 			<li>Doctor Spectrum, issues 1-6. (Marvel).</li>
+			<li>Doctor Voodoo: Avenger of the Supernatural, issues 2-3. (Marvel).</li>
 			<li>Domino, issues 2-3. (Marvel).</li>
 			<li>Doomsday, issue 1. (DC Comics).</li>
 			<li>Dr. Speck, issue 4. (Bug Books).</li>
-			<li>The Tomb of Dracula, issue 1. (Marvel ).</li>
-			<li>The Dreaming, issues 1-5, 7-10, 29, 56. (DC Comics).</li>
-			<li>DreamWar, issue 1. (DC Comics/WildStorm).</li>
 			<li>Dreadstar, issue 1, 3-4, 6. (Malibu Comics).</li>
+			<li>DreamWar, issue 1. (DC Comics/WildStorm).</li>
 			<li>DuckTales, issue 5. (Walt Disney Publications).</li>
 		</ul>
 		</div>
 		<div id="para108" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Darkhawk</em></span></p>
 		<p><span style="font-size:14px;"><em>Dazzler</em></span></p>
+			<ul>
+				<li>Dazzler, issues 15, 30-42 (gaps). (Marvel).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Deadpool</em></span></p>
+			<ul>
+				<li>Deadpool, issues 1-2, 4 (1993). (Marvel).</li>
+				<li>Deadpool, issues 1, 4 (1994). (Marvel).</li>
+				<li>Deadpool, issues -1, 4-9, 15-21 (1997-1998) (gaps). (Marvel).</li>
+				<li>Deadpool, issues 57, 67 (2001-2002). (Marvel).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Deathblow</em></span></p>
 		<p><span style="font-size:14px;"><em>Deathlok</em></span></p>
 		<p><span style="font-size:14px;"><em>Deathstroke</em></span></p>
@@ -414,9 +434,28 @@ return false;
 				<li>Secret Defenders</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Demon</em></span></p>
-		<p><span style="font-size:14px;"><em>Doctor Strange</em></span></p>
-		<p><span style="font-size:14px;"><em>Doom</em></span></p>
 		<p><span style="font-size:14px;"><em>Do Androids Dream of Electric Sheep?</em></span></p>
+			<ul>
+				<li>Do Androids Dream of Electric Sheep?, issues 1-12, 20-24 (2009-2011). (Boom).</li>
+				<li>Do Androids Dream of Electric Sheep?, issues 1-2 (of 8) (2010). (Boom).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Doctor Strange</em></span></p>
+			<ul>
+				<li>Doctor Strange: Sorcerer Supreme, issues 4, 13-90 (gaps). (Marvel).</li>
+				<li>Strange, issues 1-6. (Marvel).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Doom</em></span></p>
+			<ul>
+				<li>Books of Doom, issues 1-6 (of 6). (Marvel).</li>
+				<li>Doom, issues 1-3 (of 3). (Marvel).</li>
+				<li>Doom 2099, issues 1-44 (gaps). (Marvel).</li>
+				<li>Doom Patrol, issue 1 (2004). (Marvel).</li>
+				<li>Doom: The Emperor Returns, issues 2-3 (of 3). (Marvel).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>The Dreaming</em></span></p>
+			<ul>
+				<li>The Dreaming, issues 1-30, 56 (gaps). (DC Comics).</li>
+			</ul>
 		</div>
 	</div>
 
@@ -425,6 +464,7 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para109')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para109" style="display:none;">
 		<ul>
+			<li>Earth 2, issue 1. (DC Comics).</li>
 			<li>Electric Girl, issue 1. (Mighty Gremlin).</li>
 			<li>The Electric Sublime, issue 2. (IDW).</li>
 			<li>Elektra, issues 1-2, 5. (Marvel).</li>
@@ -439,7 +479,7 @@ return false;
 			<li>Eradicator, issue 2. (DC Comics).</li>
 			<li>The Eternals, issue 3 (1976). (Marvel).</li>
 			<li>Eternals, issues 1, 3 (2008). (Marvel).</li>
-			<li>Eternals: The Herod Factor, issue 1. (Marvel ).</li>
+			<li>Eternals: The Herod Factor, issue 1. (Marvel).</li>
 			<li>The Eudaemon, issue 1. (Dark Horse).</li>
 			<li>Ex-Mutants, issue 1. (Eternity Comics).</li>
 			<li>Exit 6, issue 4. (Plastic Spoon Press).</li>
@@ -451,8 +491,18 @@ return false;
 		</div>
 		<div id="para110" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Eclipso</em></span></p>
-		<p><span style="font-size:14px;"><em>Excalibur</em></span></p>
+			<ul>
+				<li>Eclipso, issues 2-18 (gaps). (DC Comics).</li>
+				<li>Eclipso Annual, issue 1. (DC Comics).</li>
+				<li>Eclipso: The Darkness Within, issue 2. (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Ex Machina</em></span></p>
+			<ul>
+				<li>Ex Machina, issues 1-36 (gaps). (WildStorm).</li>
+				<li>Ex Machina Special, issue 2 (of 2). (WildStorm).</li>
+				<li>Ex Machina Special, issue 3 (2007). (WildStorm).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Excalibur</em></span></p>
 		</div>
 	</div>
 
@@ -461,32 +511,32 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para111')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para111" style="display:none;">
 		<ul>
-			<li>Flaming Carrot Comics, issue 31. (Dark Horse Comics).</li>
-			<li>The First, issue 1. (CrossGeneration Comics).</li>
+			<li>The Falcon, issues 1-4 (of 4). (Marvel).</li>
+			<li>Fallen Angel, issues 2-5, 8, 11 (2003). (DC Comics).</li>
+			<li>Fallen Angel, issues 1, 4, 9 (2005). (IDW).</li>
+			<li>Fan Boy, issue 5. (DC Comics).</li>
+			<li>Fantastic Force, issue 1. (Marvel).</li>
+			<li>The Final Night, issues 1-4. (DC Comics).</li>
+			<li>The Final Night: Takion, issue 6. (DC Comics).</li>
 			<li>Fire From Heaven, issue 2. (Image).</li>
 			<li>Fire From Heaven: DeathBlow, issues 26-28. (Image).</li>
 			<li>Fire From Heaven: Sigma, issue 1. (Image).</li>
 			<li>Fire From Heaven: Sword of Damocles, issue 2. (Image).</li>
-			<li>The Final Night, issues 1-4. (DC Comics).</li>
-			<li>The Final Night: Takion, issue 6. (DC Comics).</li>
-			<li>Fantastic Force, issue 1. (Marvel).</li>
-			<li>Fan Boy, issue 5. (DC Comics).</li>
-			<li>Fallen Angel, issues 2-5, 8, 11 (2003). (DC Comics).</li>
-			<li>Fallen Angel, issues 1, 4, 9 ((2005). (IDW).</li>
-			<li>The Falcon, issues 1-4. (Marvel).</li>
+			<li>The First, issue 1. (CrossGeneration Comics).</li>
+			<li>Flaming Carrot Comics, issue 31. (Dark Horse).</li>
 			<li>Flash & Green Lantern: The Brave and the Bold, issues 3-4. (DC Comics).</li>
 			<li>Flex Mentallo, issues 1, 3. (DC Comics).</li>
 			<li>Flying Colors, issue 1. (Flying Colors Comics & Other Cool Stuff).</li>
 			<li>Foolkiller, issues 7, 9 (1991). (Marvel).</li>
-			<li>Foolkiller, issues 1-2, 4-5 (2007). (Marvel).</li>
-			<li>Foolkiller: White Angels, issue 1. (Marvel).</li>
+			<li>Foolkiller, issues 1-2, 4-5 (of 5). (2007). (Marvel).</li>
+			<li>Foolkiller: White Angels, issues 1-2, 5. (Marvel).</li>
 			<li>Force Works, issues 18-22. (Marvel).</li>
-			<li>Jack Kirby's Fourth World, issues 1-3, 9, 13, 16, 18-20. (DC Comics).</li>
-			<li>From Hell, issue 1. (Mad Love Publishing).</li>
+			<li>Jack Kirby's Fourth World, issues 1-3, 9, 13-20 (gaps). (DC Comics).</li>
 			<li>Fred Hembeck Destroys the Marvel Universe, issue 1. (Marvel).</li>
+			<li>From Hell, issue 1. (Mad Love Publishing).</li>
 			<li>The Furies, issue 5. (Carbon-Based Comics).</li>
-			<li>Fury: Peacemaker, issues 2-6. (Marvel).</li>
 			<li>Fury, issues 1-6 (2001). (Marvel).</li>
+			<li>Fury: Peacemaker, issues 2-6 (of 6). (Marvel).</li>
 			<li>Futurama, issue 1. (Bongo).</li>
 			<li>Future Cop, issue 1. (Wildstorm).</li>
 		</ul>
@@ -507,38 +557,39 @@ return false;
 			<li>Gambit, issue 2 (1994). (Marvel).</li>
 			<li>Gambit, issue 1 (1999). (Marvel).</li>
 			<li>Geisha One-Shot, issue 1. (Oni Press).</li>
-			<li>Genesis, issues 1-2, 4. (DC Comics).</li>
 			<li>Gen 13, issue 2. (Image).</li>
 			<li>Gen 13 Bootleg, issues 3, 5, 20. (WildStorm/Image).</li>
+			<li>Genesis, issues 1-2, 4. (DC Comics).</li>
 			<li>Comics Greatest World: Ghost. (Dark Horse).</li>
 			<li>Ghost, issue 11. (Dark Horse).</li>
 			<li>Ghost Handbook, issue 1. (Dark Horse).</li>
 			<li>Ghost Special, issue 1. (Dark Horse).</li>
+			<li>Giant-Size Little Marvel: AVX, issues 2-3. (Marvel).</li>
 			<li>Gifts of the Night, issue 4. (Vertigo).</li>
 			<li>Girlfrenzy: JLA: Tomorrow Woman, issue 1. (DC Comics).</li>
-			<li>Girlfrenzy: Starman the Mist, issue 1. (DC Comics).</li>
 			<li>Girlfrenzy: Lois Lane, issue 1. (DC Comics).</li>
+			<li>Girlfrenzy: Starman the Mist, issue 1. (DC Comics).</li>
 			<li>Girlfrenzy: Young Justice: The Secret, issue 1. (DC Comics).</li>
 			<li>Gladiator/Supreme, issue 1. (Marvel).</li>
 			<li>Goblin Lord, issue 4. (Goblin Entertainment).</li>
 			<li>Gog (Villains), issue 1. (DC Comics).</li>
 			<li>A.K.A. Goldfish, issue 1. (Caliber Comics).</li>
-			<li>Goon, issue 21. (Dark Horse Comics).</li>
+			<li>Goon, issue 21. (Dark Horse).</li>
+			<li>Gotham City Sirens, issue 2. (DC Comics).</li>
 			<li>Gravity, issues 2-3, 5. (Marvel).</li>
 			<li>The Gray Area, issue 2. (Image).</li>
 			<li>Tales of the Green Hornet, issue 1. (Now Comics).</li>
-			<li>Grendel Classics #2, issue 2. (Dark Horse Comics).</li>
+			<li>Grendel Classics #2, issue 2. (Dark Horse).</li>
 			<li>Greyshirt: Indigo Sunset, issues 1-6. (America's Best Comics).</li>
 			<li>Grifter, issue 5. (Image).</li>
 			<li>Grifter/Shi, issue 2. (Image).</li>
 			<li>Groo the Wanderer, issues 60, 67-71, 73, 77-78. (Epic Comics).</li>
 			<li>Guardian Angel, issues 1-2. (Image).</li>
-			<li>Gundam 0079, Mobile Suit, issue 8. (Viz Comics).</li>
-			<li>The Guild, issues 1-3. (Dark Horse Comics).</li>
-			<li>Guild, The, issue 2. (Dark Horse Comics).</li>
-			<li>Guild, The, issue 3. (Dark Horse Comics).</li>
-			<li>The Guild: Vork, issue 1. (Dark Horse Comics).</li>
+			<li>The Guild, issues 1-3. (Dark Horse).</li>
+			<li>The Guild: Vork, issue 1. (Dark Horse).</li>
+			<li>The Guild / Buffy the Vampire Slayer, Free Comic Book Day Special. (Dark Horse).</li>
 			<li>Gun Theory, issue 1. (Marvel).</li>
+			<li>Gundam 0079, Mobile Suit, issue 8. (Viz Comics).</li>
 		</ul>
 		</div>
 		<div id="para114" style="display:inline;">
@@ -563,8 +614,8 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para115')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para115" style="display:none;">
 		<ul>
-			<li>Hardcore Station, issues 1, 3-5. (DC Comics).</li>
 			<li>Hard Time, issues 2, 4, 11-12. (DC Comics).</li>
+			<li>Hardcore Station, issues 1, 3-5. (DC Comics).</li>
 			<li>Hardware, issues 1-2, 5, 7, 16, 25-26, 39-40, 43, 45, 48. (DC Comics).</li>
 			<li>Harvest Moon, issue 1. (Dead of Night Studios).</li>
 			<li>Havok and Wolverine: Meltdown, issue 1. (Marvel).</li>
@@ -572,16 +623,16 @@ return false;
 			<li>Hawkeye, issues 2, 6 (2004). (Marvel).</li>
 			<li>Hawkeye: Earth's Mightiest Marksman, issue 1. (Marvel).</li>
 			<li>Hazard, issue 3. (Image).</li>
-			<li>Heartbreakers, issue 4. (Dark Horse Comics).</li>
+			<li>Heartbreakers, issue 4. (Dark Horse).</li>
 			<li>Heartland, issue 1. (DC Comics).</li>
 			<li>Hellblazer, issues 30, 126, 162, 187, 189-191, 193, 204. (DC Comics).</li>
-			<li>Hellboy: The Crooked Man, issue 1. (Dark Horse Comics).</li>
-			<li>Hellboy: Darkness Calls, issues 2, 4. (Dark Horse Comics).</li>
-			<li>Helsing, issue 1. (Caliber Comics).</li>
+			<li>Hellboy: The Crooked Man, issue 1. (Dark Horse).</li>
+			<li>Hellboy: Darkness Calls, issues 2, 4. (Dark Horse).</li>
 			<li>Hellshock, issue 3. (Image).</li>
 			<li>Hellstorm: Prince of Lies, issues 1-4, 6. (Marvel).</li>
-			<li>Hero Zero, Comics' Greatest World:, issue 1. (Dark Horse).</li>
-			<li>Heroes for Hire, issue 11-12, 14 (2007). (Marvel).</li>
+			<li>Helsing, issue 1. (Caliber Comics).</li>
+			<li>Comics' Greatest World: Hero Zero, issue 1. (Dark Horse).</li>
+			<li>Heroes for Hire, issues 11-12, 14 (2007). (Marvel).</li>
 			<li>Heroes Reborn: Ashema, issue 1. (Marvel).</li>
 			<li>Heroes Reborn: Doom, issue 1. (Marvel).</li>
 			<li>Heroes Reborn: Doomsday, issue 1. (Marvel).</li>
@@ -624,14 +675,15 @@ return false;
 		<div id="para117" style="display:none;">
 		<ul>
 			<li>I Hate When They Run. (Tal Nor Comics).</li>
-			<li>Icon, issue 2. (DC Comics).</li>
 			<li>Iceman, issue 3. (Marvel).</li>
+			<li>Icon, issues 1-2. (DC Comics).</li>
 			<li>Identity Crisis, issue 6. (DC Comics).</li>
 			<li>Identity Disc, issues 1-5. (Marvel).</li>
 			<li>Idol, issue 1. (Marvel).</li>
 			<li>The Impossible Man, issue 1. (Marvel).</li>
 			<li>Impulse, issues 1, 14-15, 83. (DC Comics).</li>
 			<li>The Further Adventures of Indiana Jones, issue 28. (Marvel).</li>
+			<li>Injustice: Gods Among Us, issue 1 (of 3). (DC Comics).</li>
 			<li>Invasion, issues 1-2. (DC Comics).</li>
 			<li>Iron Fist, issues 4-6 (2004). (Marvel).</li>
 			<li>Iron Fist: The Living Weapon, issues 11-12. (Marvel).</li>
@@ -645,6 +697,16 @@ return false;
 				<li>New Invaders</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Iron Man</em></span></p>
+			<ul>
+				<li>Invincible Iron Man, issues 1-4, 19-28 (gaps). (Marvel).</li>
+				<li>Iron Man, issues 15-17 (2007). (Marvel).</li>
+				<li>Iron Man: Director of S.H.I.E.L.D., issues 29-30. (Marvel).</li>
+				<li>Iron Man: Enter the Mandarin, issues 2-3 (of 6). (Marvel).</li>
+				<li>Iron Man: House of M, issue 1. (Marvel).</li>
+				<li>Iron Man: Hypervelocity, issues 2-4 (of 6). (Marvel).</li>
+				<li>Iron Man: Legacy of Doom, issues 3-4 (of 4). (Marvel).</li>
+				<li>Iron Man: Viva Las Vegas, issues 1-2 (of 4). (Marvel).</li>
+			</ul>
 		</div>
 	</div>
 
