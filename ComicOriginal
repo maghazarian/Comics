@@ -1027,21 +1027,60 @@ return false;
 				<li>Star Trek: The Next Generation, issues 40, 53. (DC Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Star Wars</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman:</em></span></p>
 			<ul>
 				<li>Action Comics</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Adventures of Superman</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Man of Steel</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Superman</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 			</ul>
 		<p><span style="font-size:14px;"><em>Superman: Superboy</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman: Supergirl</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman: Misc</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman: Books</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman and Batman</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Superman/Batman</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Supreme</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Supreme Power</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		</div>
 	</div>
 
@@ -1055,17 +1094,44 @@ return false;
 				</div>
 		<div id="para140" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Tangent</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Thunderbolts</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Titans:</em></span></p>
 			<ul>
 				<li>New Titans</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Team Titans</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Teen Titans</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 			</ul>
 		<p><span style="font-size:14px;"><em>Tom Strong</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Tom Strong: Misc</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Transformers</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Transmetropolitan</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		</div>
 	</div>
 
@@ -1102,7 +1168,9 @@ return false;
 		</div>
 		<div id="para144" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Valor</em></span></p>
-			<li>Valor, issues 2-23 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+			<ul>
+				<li>Valor, issues 2-23 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+			</ul>
 		</div>
 	</div>
 
@@ -1155,16 +1223,40 @@ return false;
 		</div>
 		<div id="para146" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Warlock</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>War Machine</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Warriors:</em></span></p>
 			<ul>
 				<li>New Warriors</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 			</ul>
 		<p><span style="font-size:14px;"><em>War Story</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>What If?</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>What The?</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Wonder Woman</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>World's Finest</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		</div>
 	</div>
 
@@ -1180,18 +1272,54 @@ return false;
 		<p><span style="font-size:14px;"><em>X-Men:</em></span></p>
 			<ul>
 				<li>2099</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Exiles</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Generation X</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Mutant X</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>New X-Men</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>X-Factor</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>X-Force</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>X-Man</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>X-Men</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>X-Men Unlimited</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 				<li>Uncanny X-Men</li>
+					<ul>
+						<li>(To be cataloged)</li>
+					</ul>
 			</ul>
-		<p><span style="font-size:14px;"><em>X-Men: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>X-Men: Misc:</em></span></p>
+			<ul>
+				<li>(To be cataloged)</li>
+			</ul>
 		</div>
 	</div>
 
