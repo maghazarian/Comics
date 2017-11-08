@@ -40,7 +40,7 @@ return false;
 			</ul>
 		<p><span style="font-size:14px;"><em>1 Million:</em></span></p>
 			<ul>
-				<li>1 Million, 29 issues, various. (DC Comics).</li>
+				<li>1 Million, 29 issues, <a href="http://bit.ly/mccabecomics">various</a>. (DC Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>52:</em></span></p>
 			<ul>
@@ -54,16 +54,16 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para101')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para101" style="display:none;">
 		<ul>
-			<li>A. Bizarro, issues 1, 3. (DC Comics).</li>
-			<li>Abe Sapien, issues 1-2, 4-5. (Dark Horse).</li>
+			<li>A. Bizarro, issues 1, 3 (of 4). (DC Comics).</li>
+			<li>Abe Sapien, issues 1-2, 4-5 (of 5). (Dark Horse).</li>
 			<li>Abominations, issues 1-3. (Marvel).</li>
-			<li>Adam Strange, books 1-3 (1990). (DC Comics).</li>
-			<li>Adam Strange, issues 1-8 (2004-2005). (DC Comics).</li>
+			<li>Adam Strange, books 1-3 (of 3) (1990). (DC Comics).</li>
+			<li>Adam Strange, issues 1-8 (of 8) (2004-2005). (DC Comics).</li>
 			<li>Adventures in the DC Universe, issues 12-14. (DC Comics).</li>
 			<li>Alan Moore's Another Suburban Romance. (Avatar).</li>
 			<li>Alan Moore's Writing for Comics. (Avatar).</li>
-			<li>Alias, issue 3. (Marvel).</li>
 			<li>Albion, issues 1-6. (WildStorm).</li>
+			<li>Alias, issue 3. (Marvel).</li>
 			<li>All-Star Squadron, issue 27. (DC Comics).</li>
 			<li>Alpha Centurion Special, issue 1. (DC Comics).</li>
 			<li>Amazing Fantasy, issues 2, 5, 17. (Marvel).</li>
@@ -80,13 +80,13 @@ return false;
 			<li>Annex, issues 1-3. (Marvel).</li>
 			<li>The Irredeemable Ant-Man, issue 10. (Marvel).</li>
 			<li>Appleseed, book 3, issues 1-3. (Eclipse International).</li>
-			<li>Aquaman, issue 5 (1989). (DC Comics).</li>
+			<li>Aquaman, issue 5 (of 5) (1989). (DC Comics).</li>
 			<li>Aquaman Annual, issues 2-3 (1996-1997). (DC Comics).</li>
 			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics).</li>
-			<li>Aquaman, issues 1, 9, 14 (2003-2004). (DC Comics).</li>
 			<li>Arcanum, issue 5. (Image).</li>
-			<li>Ares, issues 1, 3-5. (Marvel).</li>
-			<li>Aresenic Lullaby. (A. Silent Comics).</li>
+			<li>Archangel, issue 1. (Marvel).</li>
+			<li>Ares, issues 1, 3-5 (of 5). (Marvel).</li>
+			<li>Aresenic Lullaby, issue 2. (A. Silent Comics).</li>
 			<li>Argus, issue 1. (DC Comics).</li>
 			<li>Arkham Asylum: Living Hell, issue 4. (DC Comics).</li>
 			<li>Armageddon 2001, issue 2. (DC Comics).</li>
@@ -173,48 +173,59 @@ return false;
 		<p><span style="font-size:14px;"><a onclick="return toggleMe('para103')" style="cursor:pointer;"><em>Misc. series by title and issue number:</em></a></span></p>
 		<div id="para103" style="display:none;">
 		<ul>
-			<li>Babylon 5: In Valen's Name, issues 1-2. (DC Comics).</li>
+			<li>Babylon 5: In Valen's Name, issues 1-2 (of 3). (DC Comics).</li>
 			<li>Backlash, issue 22. (Image).</li>
-			<li>Bad Girls, issue 1. (DC Comics).</li>
+			<li>Bad Girls, issue 1 (of 6). (DC Comics).</li>
 			<li>Badger Bedlam, issue 1. (First).</li>
-			<li>Badrock and Company, issue 6. (Image).</li>
-			<li>Ball and Chain, issue 3. (Homage Comics).</li>
-			<li>Baltimore, issue 2. (Dark Horse).</li>
+			<li>Badrock and Company, issue 6 (of 6). (Image).</li>
+			<li>Ball and Chain, issue 3 (of 4). (Homage Comics).</li>
+			<li>Baltimore, issue 2 (of 2). (Dark Horse).</li>
 			<li>Bangkok, issues 1-4. (Vertigo).</li>
+			<li>Batgirl, issue 1 (2000). (DC Comics).</li>
+			<li>Batgirl, issues 50, 55 (2004). (DC Comics).</li>
+			<li>Batgirl, issues 3-6 (2012). (DC Comics).</li>
+			<li>Batgirl Year One, issue 9. (DC Comics).</li>
 			<li>Battle Binder Plus, issues 3-4, 6. (Venus Comics).</li>
 			<li>Battle Tide, issues 1-2. (Marvel).</li>
+			<li>Batwoman, issue 1. (DC Comics).</li>
 			<li>Beast, issues 1-3 (1997). (Marvel).</li>
+			<li>Beautiful Death, issue 1. (Titan).</li>
 			<li>Beauty, issues 1-2. (Image).</li>
-			<li>Berlin, issue 1. (Michel Vrana).</li>
+			<li>Berlin, issues 1, 18. (Michel Vrana/Drawn and Quarterly).</li>
 			<li>Betty and Veronica, issue 312. (Close-Up, Inc).</li>
 			<li>Beware the Creeper, issue 5. (Vertigo).</li>
 			<li>Big Bang Comics, issue 3. (Image).</li>
 			<li>Big Bruisers, issue 1. (Image).</li>
 			<li>Billy Dogma, issue 3. (Keyhole).</li>
+			<li>Birds of Prey, issues 35, 58. (DC Comics).</li>
+			<li>Birds of Prey: Manhunt, issues 1-3 (of 4). (DC Comics).</li>
+			<li>Bishop, issue 2. (Marvel).</li>
+			<li>Black Canary, issues 1, 3-4 (of 4). (DC Comics).</li>
 			<li>Black Flag, issue 2. (Maximum Press).</li>
 			<li>Black Knight, issues 1-4. (Marvel).</li>
 			<li>Black Knight: Exodus, issue 1. (Marvel).</li>
-			<li>Blackmask, issue 1. (DC Comics).</li>
+			<li>Black Lightning: Year One, issues 1-2 (of 6). (DC Comics).</li>
 			<li>Black Ops, issue 4. (Image).</li>
 			<li>Black Terror, issue 3. (Eclipse Comics).</li>
 			<li>Black Widow, issue 3 (1999). (Marvel).</li>
 			<li>Black Widow, issues 1, 4, 6 (2004-2005). (Marvel).</li>
-			<li>Black Widow, issues 1-6 (2005-2006). (Marvel).</li>
+			<li>Black Widow, issues 1-6 (of 6) (2005-2006). (Marvel).</li>
+			<li>Blackmask, issue 1. (DC Comics).</li>
 			<li>Blackwulf, issues 1-4, 6, 9. (Marvel).</li>
 			<li>Blade, issues 1-12. (Marvel).</li>
 			<li>Blaze of Glory, issues 1-2, 4. (Marvel).</li>
 			<li>Blink, issue 3. (Marvel).</li>
+			<li>Blood Syndicate, issues 2, 8. (DC Comics).</li>
 			<li>Bloodbath, issues 1-2. (DC Comics).</li>
 			<li>Bloodhound, issue 6. (DC Comics).</li>
 			<li>Bloodshot USA, issue 2. (Valiant).</li>
 			<li>Bloodstrike, issues 1, 4-5, 7, 18. (Image).</li>
-			<li>Blood Syndicate, issues 2, 8. (DC Comics).</li>
 			<li>Blue Beetle, issue 3. (DC Comics).</li>
 			<li>Body Doubles, issues 1, 4. (DC Comics).</li>
-			<li>Book of the Dead, issue 2. (Marvel).</li>
-			<li>Books of Magic, issues 6, 8. (DC Comics).</li>
-			<li>Books of Magick: Life During Wartime, issue 1. (Vertigo).</li>
 			<li>Bone, issues 39-41. (Cartoon Books).</li>
+			<li>Book of the Dead, issue 2. (Marvel).</li>
+			<li>Books of Magic, issues 6, 8-9. (DC Comics).</li>
+			<li>Books of Magick: Life During Wartime, issue 1. (Vertigo).</li>
 			<li>B.P.R.D.: 1946, issues 1-5. (Dark Horse).</li>
 			<li>B.P.R.D.: Garden of Souls, issues 1-2. (Dark Horse).</li>
 			<li>B.P.R.D.: Hell on Earth, issue 146. (Dark Horse).</li>
@@ -228,7 +239,7 @@ return false;
 			<li>Breakneck Blvd., issue 2. (Slave Labor Graphics).</li>
 			<li>Breed, issue 1. (Malibu Comics).</li>
 			<li>Brigade, issue 0 (Sep. 1993). (Image).</li>
-			<li>Brigade, issues 1, 2 (1992). (Image).</li>
+			<li>Brigade, issues 1-2 (of 4) (1992). (Image).</li>
 			<li>Brigade, issue 3 (Feb. 1993). (Image).</li>
 			<li>Brigade, issues 1-2, 4-5 (1993). (Image).</li>
 			<li>Brigade, issue 3 (Sep. 1993). (Image).</li>
@@ -250,21 +261,14 @@ return false;
 						<li>Sword of Azrael, issues 2, 4. (DC Comics).</li>
 					</ul>
 				<li>Batman</li>
+					<ul>
+						<li>Batman, issues 0, 312-670 (gaps). (DC Comics).</li>
+						<li>Batman Annual, issues 14-20, 24 (gaps). (DC Comics).</li>
+					</ul>
 				<li>Detective Comics</li>
-				<li>Gotham Knights, issues </li>
+				<li>Gotham Knights</li>
 				<li>Legends of the Dark Knight</li>
 				<li>Shadow of the Bat</li>
-			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Villains and Sidekicks</em></span></p>
-			<ul>
-				<li>Batgirl, issue 1 (2000). (DC Comics).</li>
-				<li>Batgirl, issues 50, 55 (2004). (DC Comics).</li>
-				<li>Batgirl, issues 3-6 (2012). (DC Comics).</li>
-				<li>Batgirl Year One, issue 9. (DC Comics).</li>
-				<li>Batman/Poison Ivy, (2004). (DC Comics).</li>
-				<li>Birds of Prey, issues 35, 58. (DC Comics).</li>
-				<li>Birds of Prey: Manhunt, issues 1-3 (of 4). (DC Comics).</li>
-				<li>Harley and Ivy, (2001). (DC Comics).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Misc</em></span></p>
 		<p><span style="font-size:14px;"><em>Batman: Books</em></span></p>
