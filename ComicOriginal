@@ -242,6 +242,13 @@ return false;
 		<p><span style="font-size:14px;"><em>Batman Series:</em></span></p>
 			<ul>
 				<li>Azrael</li>
+					<ul>
+						<li>Azrael, issues 1-100 (gaps). (DC Comics).</li>
+						<li>Azrael Annual, issues 1-3. (DC Comics).</li>
+						<li>Azrael Plus the Question, issue 1. (DC Comics).</li>
+						<li>Showcase '94: Azrael, issue 10 (of 12). (DC Comics).</li>
+						<li>Sword of Azrael, issues 2, 4. (DC Comics).</li>
+					</ul>
 				<li>Batman</li>
 				<li>Detective Comics</li>
 				<li>Gotham Knights, issues </li>
@@ -249,6 +256,16 @@ return false;
 				<li>Shadow of the Bat</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Villains and Sidekicks</em></span></p>
+			<ul>
+				<li>Batgirl, issue 1 (2000). (DC Comics).</li>
+				<li>Batgirl, issues 50, 55 (2004). (DC Comics).</li>
+				<li>Batgirl, issues 3-6 (2012). (DC Comics).</li>
+				<li>Batgirl Year One, issue 9. (DC Comics).</li>
+				<li>Batman/Poison Ivy, (2004). (DC Comics).</li>
+				<li>Birds of Prey, issues 35, 58. (DC Comics).</li>
+				<li>Birds of Prey: Manhunt, issues 1-3 (of 4). (DC Comics).</li>
+				<li>Harley and Ivy, (2001). (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Misc</em></span></p>
 		<p><span style="font-size:14px;"><em>Batman: Books</em></span></p>
 		<p><span style="font-size:14px;"><em>Black Panther</em></span></p>
@@ -263,11 +280,11 @@ return false;
 			<li>Cadilacs and Dinosaurs, issue 1. (Kitchen Sink).</li>
 			<li>Captain Britain and MI1:13, issues 2-3. (Marvel).</li>
 			<li>Captain Universe, issue 9. (Marvel).</li>
-			<li>Captain Universe/Hulk, issue 1. (Marvel).</li>
 			<li>Captain Universe/Daredevil, issue 1. (Marvel).</li>
-			<li>Captain Universe/X-23, issue 1. (Marvel).</li>
+			<li>Captain Universe/Hulk, issue 1. (Marvel).</li>
 			<li>Captain Universe/Invisible Woman, issue 1. (Marvel).</li>
 			<li>Captain Universe/Silver Surfer, issue 1. (Marvel).</li>
+			<li>Captain Universe/X-23, issue 1. (Marvel).</li>
 			<li>Catseye, issue 1. (Hyperwerks Comics).</li>
 			<li>Celestine, issue 2. (Image).</li>
 			<li>Cerebrus, issues 114, 130. (Aardvark-Vanaheim Comics).</li>
@@ -284,32 +301,35 @@ return false;
 			<li>Civil War: Casualties of War, issue 1. (Marvel).</li>
 			<li>Civil War: Front Line, issues 3, 5. (Marvel).</li>
 			<li>Civil War: Opening Shot, issue 1. (Marvel).</li>
-			<li>Clandestine, The, issue 1. (Marvel).</li>
-			<li>Cobweb, Tomorrow Stories:, issue 5. (America's Best Comics).</li>
+			<li>Civil War: Young Avengers & Runaways, issue 2. (Marvel).</li>
+			<li>The Clandestine, issue 1. (Marvel).</li>
+			<li>Tomorrow Stories: Cobweb, issue 5. (America's Best Comics).</li>
+			<li>Cold Space, issue 2 (of 4). (Boom).</li>
 			<li>Collider, issue 1. (Vertigo).</li>
 			<li>Colossus, issue 1. (Marvel).</li>
 			<li>X-Men: Colossus Bloodline, issue 3. (Marvel).</li>
-			<li>Comic Book Comics #2, Our Artists at War, issue 2. (Evil Twin Comics).</li>
+			<li>Our Artists at War: Comic Book Comics #2, issue 2. (Evil Twin Comics).</li>
 			<li>Conan, issue 12. (Marvel).</li>
-			<li>The Savage Sword of Conan, issue 166. (Marvel).</li>
 			<li>Conan the Barbarian, issue 244-245 (1991). (Marvel).</li>
 			<li>Conan the Barbarian, issue 1 (1997). (Marvel).</li>
 			<li>Conan the King, issue 47. (Marvel).</li>
+			<li>The Savage Sword of Conan, issue 166. (Marvel).</li>
 			<li>Concrete: Eclectica, issue 1. (Dark Horse).</li>
 			<li>Concrete the Human Dilemma, issues 1-6. (Dark Horse).</li>
 			<li>Conjurors, issue 2. (DC Comics).</li>
 			<li>Contest of Champions, issue 1-3, 5. (Marvel).</li>
-			<li>Cosa Nostroid VI, La, issue 6. (Fireman Press).</li>
+			<li>La Cosa Nostroid VI, La, issue 6. (Fireman Press).</li>
 			<li>Cosmic Guard, issue 5. (Devil's Due Publishing).</li>
+			<li>Cosmic Powers, issue 5. (Marvel).</li>
 			<li>Coven, issues 1-6. (Awesome Entertainment).</li>
 			<li>The Creech, issue 2. (Image).</li>
 			<li>Crew, issue 4. (Marvel).</li>
 			<li>Criminal, issue 2. (Icon).</li>
 			<li>Crimson, issues 9, 11, 14, 17. (WildStorm).</li>
-			<li>Crimson: Scarlet X Blood on the Moon, issue 1. (WildStorm).</li>
 			<li>Crimson Dawn, Psylocke & Archangel, issues 1-4. (Marvel).</li>
 			<li>Crimson Dynamo, issues 1-2, 5. (Marvel).</li>
 			<li>Crimson Plague, issues 1-2. (Image).</li>
+			<li>Crimson: Scarlet X Blood on the Moon, issue 1. (WildStorm).</li>
 			<li>The Crow/Razor-Kill The Pain, issue 1. (London Night Studios).</li>
 			<li>Cruel and Unusual, issue 2. (Vertigo).</li>
 			<li>The Crusades, issues 1-2, 5-8, 12. (Vertigo).</li>
@@ -321,8 +341,26 @@ return false;
 		</div>
 		<div id="para106" style="display:inline;">
 		<p><span style="font-size:14px;"><em>Cable</em></span></p>
+			<ul>
+				<li>Askani'son, issue 2. (Marvel).</li>
+				<li>Cable, issues 1, 3, 7, 71, 101 (gaps). (Marvel).</li>
+				<li>Cable, issues 4, 6 (2008). (Marvel).</li>
+				<li>Cable & Deadpool, issues 5-6, 31. (Marvel).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Cage</em></span></p>
-		<p><span style="font-size:14px;"><em>Captain Anerica</em></span></p>
+			<ul>
+				<li>Cage, issues 1-19 (1992-1993) (gaps). (Marvel).</li>
+				<li>Cage, issues 1-5. (Max Comics).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>Captain America</em></span></p>
+			<ul>
+				<li>Captain America, issues 24-40 (gaps). (Marvel).</li>
+				<li>Captain America: Sentinel of Liberty, issue 2. (Marvel).</li>
+				<li>Captain America: The Chosen, issues 1-6 (of 6). (Marvel).</li>
+				<li>Captain America: White, issue 0. (Marvel).</li>
+				<li>Fallen Son: The Death of Captain America, issues 2-5. (Marvel).</li>
+				<li>Winter Soldier: Winter Kills, issue 1. (Marvel).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Captain Atom</em></span></p>
 		<p><span style="font-size:14px;"><em>Captain Marvel</em></span></p>
 		<p><span style="font-size:14px;"><em>Catwoman</em></span></p>
