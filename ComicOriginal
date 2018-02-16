@@ -34,13 +34,13 @@ return false;
 			</ul>
 		</div>
 		<div id="para100" style="display:inline;">
-		<p><span style="font-size:14px;"><em>100 Bullets:</em></span></p>
-			<ul>
-				<li>100 Bullets, issues 1-50 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
-			</ul>
 		<p><span style="font-size:14px;"><em>1 Million:</em></span></p>
 			<ul>
 				<li>1 Million, 29 issues, <a href="http://bit.ly/mccabecomics">various</a>. (DC Comics).</li>
+			</ul>
+		<p><span style="font-size:14px;"><em>100 Bullets:</em></span></p>
+			<ul>
+				<li>100 Bullets, issues 1-50 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (Vertigo).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>52:</em></span></p>
 			<ul>
@@ -70,8 +70,8 @@ return false;
 			<li>Amazon, issue 1. (Amalgam).</li>
 			<li>America's Best Comics, issue 1. (WildStorm).</li>
 			<li>Amy Racecar, issue 1. (El Capitan).</li>
-			<li>Anarky, issues 1, 4-7. (DC Comics).</li>
 			<li>A-Next, issue 9. (Marvel).</li>
+			<li>Anarky, issues 1, 4-7. (DC Comics).</li>
 			<li>Angel and the Ape, issue 1 (1991). (DC Comics).</li>
 			<li>Angel and the Ape, issue 1 (2001). (Vertigo).</li>
 			<li>Angel Town, issue 1. (Vertigo).</li>
@@ -93,8 +93,8 @@ return false;
 			<li>Armageddon: The Alien Agenda, issues 2-4. (DC Comics).</li>
 			<li>Armageddon: Inferno, issues 1-3. (DC Comics).</li>
 			<li>Armed and Dangerous, issue 2. (Acclaim Comics).</li>
-			<li>Army Ants, issue 7. (Teddy Bear Press).</li>
 			<li>Army @ Love, issue 3. (Vertigo).</li>
+			<li>Army Ants, issue 7. (Teddy Bear Press).</li>
 			<li>Arsenal, issue 1. (DC Comics).</li>
 			<li>Artemis: Requiem, issues 3-4, 6. (DC Comics).</li>
 			<li>Ascension, issues 11-12. (Image).</li>
@@ -157,14 +157,22 @@ return false;
 				<li>Annihilation, issues 1-6. (Marvel).</li>
 				<li>Annihilation: Conquest Prologue, issue 1. (Marvel).</li>
 				<li>Annihilation: Conquest, issues 1-6. (Marvel).</li>
-				<li>Annihilation: Conquest - Quasar, issues 1, 3-4. (Marvel).</li>
+				<li>Annihilation: Conquest - Quasar, issues 1-4. (Marvel).</li>
 				<li>Annihilation: Conquest - Wraith, issues 1-4. (Marvel).</li>
 				<li>Annihilation: Heralds of Galactus, issues 1-2. (Marvel).</li>
+				<li>Annihilation: Nova, issues 1-4. (Marvel).</li>
 				<li>Annihilation: Ronan, issues 1-4. (Marvel).</li>
 				<li>Annihilation: Silver Surfer, issues 1-4. (Marvel).</li>
 				<li>Annihilation: Super Skrull, issues 1-4. (Marvel).</li>
 			</ul>
 		<p><span style="font-size:14px;"><em>Avengers</em></span></p>
+			<ul>
+				<li>Avengers, issues </li>
+				<li>Avengers Annual, issues </li>
+				<li>Avengers Spotlight, issues </li>
+				<li>Avengers West Coast, issues </li>
+				<li>West Coast Avengers, issues </li>
+			</ul>
 		</div>
 	</div>
 
@@ -266,13 +274,93 @@ return false;
 						<li>Batman Annual, issues 14-20, 24 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
 					</ul>
 				<li>Detective Comics</li>
+					<ul>
+						<li>Detective Comics, issues 0, 510-817 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+						<li>Detective Comics Annual, issues 3, 7, 9. (DC Comics).</li>
+					</ul>
 				<li>Gotham Knights</li>
+					<ul>
+						<li>Batman: Gotham Knights, issues 2-61 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+					</ul>
 				<li>Legends of the Dark Knight</li>
+					<ul>
+						<li>Batman: Legends of the Dark Knight, issues 0-200 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+						<li>Batman: Legends of the Dark Knight Annual, issues 1-2, 5-6. (DC Comics).</li>
+						<li>Legends of the Dark Knight, issues 1-3 (2014). (DC Comics).</li>
+					</ul>
 				<li>Shadow of the Bat</li>
+					<ul>
+						<li>Batman: Shadow of the Bat, issues 0-94 <a href="http://bit.ly/mccabecomicsgaps">(gaps)</a>. (DC Comics).</li>
+						<li>Batman: Shadow of the Bat Annual, issues 2, 4. (DC Comics).</li>
+					</ul>
 			</ul>
-		<p><span style="font-size:14px;"><em>Batman: Misc</em></span></p>
+		<p><span style="font-size:14px;"><em>Batman: Misc.</em></span></p>
+			<ul>
+				<li>Batman Chronicles, issue 4-6, 16, 18-19, 21-22. (DC Comics).</li>
+				<li>Batman City of Light, issues 1-6, 8. (DC Comics).</li>
+				<li>Batman Dark Victory, issues 1-2, 5-9, 11-12. (DC Comics).</li>
+				<li>Batman Death and Maidens, issues 1-9. (DC Comics).</li>
+				<li>Batman Family, issues 1, 3, 5. (DC Comics).</li>
+				<li>Batman: Gotham Central, issues 10, 15, 17, 20, 22. (DC Comics).</li>
+				<li>Man-Bat, issues 2-3, 5. (DC Comics).</li>
+				<li>10-Cent Adventure (2002). (DC Comics).</li>
+				<li>Batman 80-Page Giant, issue 2. (DC Comics).</li>
+				<li>Batman: No Man's Land, issue 1. (DC Comics).</li>
+				<li>Batman: Bane of Demon, issue 1. (DC Comics).</li>
+				<li>Batman: Black and White, issues 2-4. (DC Comics).</li>
+				<li>Batman: Gotham Nights II, issue 1-2. (DC Comics).</li>
+				<li>Batman: Turning Point, issue 5. (DC Comics).</li>
+				<li>Untold Legend of the Batman, issues 1-3. (DC Comics).</li>
+				<li>Batman: Hollywood Knight, issues 1-2. (DC Comics).</li>
+				<li>Batman: Our Worlds at War, issue 1. (DC Comics).</li>
+				<li>Batman: Orpheus Rising, issue 2. (DC Comics).</li>
+				<li>Batman: Gordon's Law, issue 1. (DC Comics).</li>
+				<li>Underworld Unleashed: Batman-Devil's Asylum, issue 1. (DC Comics).</li>
+				<li>Batman: GCPD, issues 1-4. (DC Comics).</li>
+				<li>Batman: Day of Judgement, issue 1. (DC Comics).</li>
+				<li>Batman and the Monster Men, issue 1. (DC Comics).</li>
+				<li>Batman: Nevermore, issue 5. (DC Comics).</li>
+				<li>Batman, issue 1 (2004). (DC Comics).</li>
+				<li>Batman: 12 Cent Adventure, issue 1. (DC Comics).</li>
+				<li>Batman Vs. Predator II, issue 1-4. (DC Comics).</li>
+				<li>Batman Vs. Predator III, issue 2. (DC Comics).</li>
+				<li>Batman: Devastator, issue 1. (DC Comics).</li>
+				<li>Batman: Joker, issue 1. (DC Comics).</li>
+				<li>Batman: Vengeance of Bane II (1995). (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Batman: Books</em></span></p>
+			<ul>
+				<li>Batman/ Poison Ivy: Cast Shadow. (DC Comics).</li>
+				<li>Batman Bane. (DC Comics).</li>
+				<li>Batman Spawn War Devil. (DC Comics).</li>
+				<li>Batman Tenses, issues 1-2. (DC Comics).</li>
+				<li>Batman: the Blue, the Grey and the Bat. (DC Comics).</li>
+				<li>Spawn Batman. (DC Comics).</li>
+				<li>Batman: Dreamland. (DC Comics).</li>
+				<li>Real world: Batman. (DC Comics).</li>
+				<li>Batman, Superman, Wonder Woman Trinity. (DC Comics).</li>
+				<li>Just Imagine Stan Lee with Joe Kubert Creating Batman. (DC Comics).</li>
+				<li>Batman/Demon. (DC Comics).</li>
+				<li>Batman: Order of Beasts. (DC Comics).</li>
+				<li>Batman: League of Batmen, issues 1-2. (DC Comics).</li>
+				<li>Batman/ Aliens II, issue 2. (DC Comics).</li>
+				<li>Batman Vs. Predator, issues 2-3. (DC Comics).</li>
+				<li>Batman/ Scarface: Psychodrama. (DC Comics).</li>
+				<li>Darkness/ Batman, issue 1. (DC Comics).</li>
+				<li>Batman: In darkest Knight. (DC Comics).</li>
+				<li>Batman Chronicles: Gauntlet. (DC Comics).</li>
+				<li>Batman: Master of Future. (DC Comics).</li>
+				<li>Batman/Punisher: Lake of Fire. (DC Comics).</li>
+			</ul>
 		<p><span style="font-size:14px;"><em>Black Panther</em></span></p>
+			<ul>
+				<li>Black Panther, issue 12 (1978).</li>
+				<li>Black Panther, volume 2, issues 1-11, 13-16, 40-41, 59-62. (Marvel).</li>
+				<li>Black Panther, volume 3, issues 1-22, 24-35, 37-38. (Marvel).</li>
+				<li>Black Panther Annual, issue 1 (2008). (Marvel).</li>
+				<li>Black Panther: Panther's Prey, issue 4. (Marvel).</li>
+				<li>Black Panther: World of Wakanda, issue 6. (Marvel).</li>
+			</ul>
 		</div>
 	</div>
 
